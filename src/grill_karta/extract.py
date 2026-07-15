@@ -38,10 +38,11 @@ def extract_objects(pbf_path: str, use_cache: bool = True) -> gpd.GeoDataFrame:
         print(f"Läser från cache: {GRILLS_GEOJSON}")
         return gpd.read_file(GRILLS_GEOJSON)
 
-    with tempfile.NamedTemporaryFile(suffix=".pbf", delete=False) as f:
-        filtered_pbf = f.name
-
+    tmpdir = tempfile.mkdtemp()
     try:
+        filtered_pbf = os.path.join(tmpdir, "filtered.pbf")
+        geojson_path = os.path.join(tmpdir, "grills.geojson")
+
         print("Filtrerar objekt med osmium...")
         subprocess.run(
             [
@@ -58,15 +59,13 @@ def extract_objects(pbf_path: str, use_cache: bool = True) -> gpd.GeoDataFrame:
         )
 
         print("Exporterar till GeoJSON...")
-        with tempfile.NamedTemporaryFile(suffix=".geojson", delete=False) as f:
-            geojson_path = f.name
-
         subprocess.run(
             [
                 "osmium", "export",
                 filtered_pbf,
                 "-o", geojson_path,
                 "--geometry-types=point,linestring,polygon",
+                "--add-unique-id=type_id",
                 "-f", "geojson",
             ],
             check=True,
@@ -75,10 +74,10 @@ def extract_objects(pbf_path: str, use_cache: bool = True) -> gpd.GeoDataFrame:
 
         print("Läser in GeoJSON...")
         gdf = gpd.read_file(geojson_path)
-        os.unlink(geojson_path)
 
     finally:
-        os.unlink(filtered_pbf)
+        import shutil
+        shutil.rmtree(tmpdir)
 
     gdf = _normalize(gdf)
     gdf = _filter_types(gdf)

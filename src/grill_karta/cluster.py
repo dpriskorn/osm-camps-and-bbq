@@ -1,9 +1,7 @@
-import math
 from collections import Counter
 
 import geopandas as gpd
 from sklearn.cluster import DBSCAN
-from pyproj import Transformer
 
 
 CRS_SWEREF = "EPSG:3006"
@@ -11,24 +9,11 @@ CRS_WGS84 = "EPSG:4326"
 
 
 def project_to_sweref(gdf: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
-    transformer = Transformer.from_crs(CRS_WGS84, CRS_SWEREF, always_xy=True)
-    gdf = gdf.copy()
-    gdf["geometry"] = gdf["geometry"].apply(
-        lambda g: _project_geometry(g, transformer)
-    )
-    return gdf.set_crs(CRS_SWEREF)
-
-
-def _project_geometry(geom, transformer):
-    if hasattr(geom, "x"):
-        x, y = transformer.transform(geom.x, geom.y)
-        from shapely.geometry import Point
-        return Point(x, y)
-    if hasattr(geom, "geoms"):
-        from shapely.geometry import MultiPoint
-        pts = [_project_geometry(g, transformer) for g in geom.geoms]
-        return MultiPoint(pts)
-    return geom
+    if gdf.crs is None:
+        gdf = gdf.set_crs(CRS_WGS84)
+    if gdf.crs.to_epsg() != 3006:
+        gdf = gdf.to_crs(CRS_SWEREF)
+    return gdf
 
 
 def cluster_places(gdf: gpd.GeoDataFrame, eps_meters: int = 100) -> gpd.GeoDataFrame:

@@ -1,9 +1,8 @@
-import math
 from collections import Counter
 from datetime import datetime
 
 import geopandas as gpd
-from pyproj import Transformer
+from sklearn.cluster import DBSCAN
 
 
 CRS_SWEREF = "EPSG:3006"
@@ -11,43 +10,19 @@ CRS_WGS84 = "EPSG:4326"
 
 
 def project_to_sweref(gdf: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
-    transformer = Transformer.from_crs(CRS_WGS84, CRS_SWEREF, always_xy=True)
-    gdf = gdf.copy()
-
-    def transform_point(g):
-        if hasattr(g, "x") and hasattr(g, "y"):
-            x, y = transformer.transform(g.x, g.y)
-            from shapely.geometry import Point
-            return Point(x, y)
-        if hasattr(g, "geoms"):
-            from shapely.geometry import MultiPoint
-            pts = [transform_point(p) for p in g.geoms]
-            return MultiPoint(pts)
-        return g
-
-    gdf["geometry"] = gdf["geometry"].apply(transform_point)
-    return gdf.set_crs(CRS_SWEREF)
+    if gdf.crs is None:
+        gdf = gdf.set_crs(CRS_WGS84)
+    if gdf.crs.to_epsg() != 3006:
+        gdf = gdf.to_crs(CRS_SWEREF)
+    return gdf
 
 
 def project_to_wgs84(gdf: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
-    if gdf.crs and gdf.crs.to_epsg() == 4326:
-        return gdf
-    transformer = Transformer.from_crs(CRS_SWEREF, CRS_WGS84, always_xy=True)
-    gdf = gdf.copy()
-
-    def transform_point(g):
-        if hasattr(g, "x") and hasattr(g, "y"):
-            lon, lat = transformer.transform(g.x, g.y)
-            from shapely.geometry import Point
-            return Point(lon, lat)
-        if hasattr(g, "geoms"):
-            from shapely.geometry import MultiPoint
-            pts = [transform_point(p) for p in g.geoms]
-            return MultiPoint(pts)
-        return g
-
-    gdf["geometry"] = gdf["geometry"].apply(transform_point)
-    return gdf.set_crs(CRS_WGS84)
+    if gdf.crs is None:
+        gdf = gdf.set_crs(CRS_SWEREF)
+    if gdf.crs.to_epsg() != 4326:
+        gdf = gdf.to_crs(CRS_WGS84)
+    return gdf
 
 
 def cluster_places(gdf: gpd.GeoDataFrame, eps_meters: int = 100) -> gpd.GeoDataFrame:
@@ -56,9 +31,6 @@ def cluster_places(gdf: gpd.GeoDataFrame, eps_meters: int = 100) -> gpd.GeoDataF
     db = DBSCAN(eps=eps_meters, min_samples=1).fit(coords)
     gdf["cluster"] = db.labels_
     return gdf
-
-
-from sklearn.cluster import DBSCAN
 
 
 def get_clusters_info(gdf: gpd.GeoDataFrame) -> list[dict]:

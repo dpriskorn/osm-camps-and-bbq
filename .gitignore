@@ -6,3 +6,7 @@ __pycache__/
 .eggs/
 *.egg
 uv.lock
+
+# Data and output
+data/
+grillplatser_*.gpx
