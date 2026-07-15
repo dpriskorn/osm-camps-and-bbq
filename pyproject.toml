@@ -1,0 +1,19 @@
+[project]
+name = "grill-karta"
+version = "0.1.0"
+description = "Räkna unika grill- och rastplatser i Sverige med DBSCAN"
+requires-python = ">=3.12"
+dependencies = [
+    "geopandas",
+    "shapely",
+    "pyproj",
+    "scikit-learn",
+    "click",
+]
+
+[project.scripts]
+grillsok = "grill_karta.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
