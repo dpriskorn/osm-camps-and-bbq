@@ -32,7 +32,11 @@ def main(download, no_cache, eps, pbf, gpx):
     clusters_info = get_clusters_info(gdf)
 
     if gpx is None:
-        gpx = f"grillplatser_{eps}m.gpx"
+        from datetime import datetime
+        ts = datetime.now().strftime("%Y%m%d")
+        n_clusters = len(clusters_info)
+        n_points = len(gdf)
+        gpx = f"grillplatser_{eps}m_{n_clusters}_kluster_av_{n_points}_punkter_{ts}.gpx"
 
     gpx_content = to_gpx(gdf, clusters_info, eps)
     with open(gpx, "w") as f:
