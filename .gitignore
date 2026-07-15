@@ -9,4 +9,4 @@ uv.lock
 
 # Data and output
 data/
-output/
+# output/
