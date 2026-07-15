@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="public-bath-exporter"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Public Baths in Sweden</name>
+  </metadata>
+  <wpt lat="57.9477100" lon="19.2322800">
+    <name>node_28423838</name>
+    <desc>https://www.openstreetmap.org/node/28423838</desc>
+  </wpt>
+  <wpt lat="59.7220979" lon="14.1582500">
+    <name>node_30494526</name>
+    <desc>https://www.openstreetmap.org/node/30494526</desc>
+  </wpt>
+  <wpt lat="59.1922554" lon="17.7813556">
+    <name>node_71317649</name>
+    <desc>https://www.openstreetmap.org/node/71317649</desc>
+  </wpt>
+  <wpt lat="60.0732500" lon="15.9175000">
+    <name>node_250812600</name>
+    <desc>https://www.openstreetmap.org/node/250812600</desc>
+  </wpt>
+  <wpt lat="56.4884522" lon="15.0771110">
+    <name>Blötan</name>
+    <desc>https://www.openstreetmap.org/node/288844446</desc>
+  </wpt>
+  <wpt lat="55.6048481" lon="12.9657743">
+    <name>node_312400999</name>
+    <desc>https://www.openstreetmap.org/node/312400999</desc>
+  </wpt>
+  <wpt lat="57.6404347" lon="18.2871485">
+    <name>Kallbadhuset</name>
+    <desc>https://www.openstreetmap.org/node/317437644</desc>
+  </wpt>
+  <wpt lat="59.7649038" lon="17.6308968">
+    <name>Oxtorget</name>
+    <desc>https://www.openstreetmap.org/node/354476892</desc>
+  </wpt>
+  <wpt lat="59.8657850" lon="17.1697987">
+    <name>node_440617756</name>
+    <desc>https://www.openstreetmap.org/node/440617756</desc>
+  </wpt>
+  <wpt lat="59.8804694" lon="18.4982809">
+    <name>Gisenbadet</name>
+    <desc>https://www.openstreetmap.org/node/442366512</desc>
+  </wpt>
+  <wpt lat="59.5221225" lon="17.8450221">
+    <name>node_453442430</name>
+    <desc>https://www.openstreetmap.org/node/453442430</desc>
+  </wpt>
+  <wpt lat="59.8372380" lon="18.6554625">
+    <name>node_505030934</name>
+    <desc>https://www.openstreetmap.org/node/505030934</desc>
+  </wpt>
+  <wpt lat="60.1181390" lon="15.1958206">
+    <name>Jägarnäsbadet</name>
+    <desc>https://www.openstreetmap.org/node/796481497</desc>
+  </wpt>
+  <wpt lat="59.7971139" lon="18.5067114">
+    <name>node_841605581</name>
+    <desc>https://www.openstreetmap.org/node/841605581</desc>
+  </wpt>
+  <wpt lat="60.8987066" lon="14.5867624">
+    <name>node_842928413</name>
+    <desc>https://www.openstreetmap.org/node/842928413</desc>
+  </wpt>
+  <wpt lat="59.4046977" lon="18.0216110">
+    <name>node_954628699</name>
+    <desc>https://www.openstreetmap.org/node/954628699</desc>
+  </wpt>
+  <wpt lat="64.4657279" lon="21.4003004">
+    <name>node_1112147815</name>
+    <desc>https://www.openstreetmap.org/node/1112147815</desc>
+  </wpt>
+  <wpt lat="58.9374634" lon="11.1664464">
+    <name>Strömstad Kallbadhus</name>
+    <desc>https://www.openstreetmap.org/node/1370355891</desc>
+  </wpt>
+  <wpt lat="59.5186447" lon="18.3601415">
+    <name>node_1436032348</name>
+    <desc>https://www.openstreetmap.org/node/1436032348</desc>
+  </wpt>
+  <wpt lat="57.6995558" lon="11.9562940">
+    <name>Hagabadet</name>
+    <desc>https://www.openstreetmap.org/node/1641603461</desc>
+  </wpt>
+  <wpt lat="59.5911231" lon="17.0696892">
+    <name>Bredsands Badplats</name>
+    <desc>https://www.openstreetmap.org/node/1683594089</desc>
+  </wpt>
+  <wpt lat="59.5519731" lon="17.5549026">
+    <name>node_1687577109</name>
+    <desc>https://www.openstreetmap.org/node/1687577109</desc>
+  </wpt>
+  <wpt lat="59.5515940" lon="17.5554032">
+    <name>node_1687577225</name>
+    <desc>https://www.openstreetmap.org/node/1687577225</desc>
+  </wpt>
+  <wpt lat="59.5524224" lon="17.5537723">
+    <name>node_1687577271</name>
+    <desc>https://www.openstreetmap.org/node/1687577271</desc>
+  </wpt>
+  <wpt lat="59.6004114" lon="17.8142510">
+    <name>Steningebadet</name>
+    <desc>https://www.openstreetmap.org/node/1760709330</desc>
+  </wpt>
+  <wpt lat="62.6747073" lon="15.0801301">
+    <name>Brehungen</name>
+    <desc>https://www.openstreetmap.org/node/1843716724</desc>
+  </wpt>
+  <wpt lat="63.5141952" lon="14.2183976">
+    <name>node_1858192797</name>
+    <desc>https://www.openstreetmap.org/node/1858192797</desc>
+  </wpt>
+  <wpt lat="59.6212932" lon="18.3836726">
+    <name>Ängebybadet</name>
+    <desc>https://www.openstreetmap.org/node/1966850791</desc>
+  </wpt>
+  <wpt lat="60.6868387" lon="15.0573090">
+    <name>Västannorstjärn</name>
+    <desc>https://www.openstreetmap.org/node/2327493335</desc>
+  </wpt>
+  <wpt lat="59.5131031" lon="18.2684333">
+    <name>node_2377131978</name>
+    <desc>https://www.openstreetmap.org/node/2377131978</desc>
+  </wpt>
+  <wpt lat="60.4581801" lon="16.0543087">
+    <name>Gustafsnäsvikens badplats</name>
+    <desc>https://www.openstreetmap.org/node/2379092417</desc>
+  </wpt>
+  <wpt lat="59.7597888" lon="17.6370138">
+    <name>Ekhagen</name>
+    <desc>https://www.openstreetmap.org/node/2379522713</desc>
+  </wpt>
+  <wpt lat="59.1923149" lon="17.7826205">
+    <name>node_2384904798</name>
+    <desc>https://www.openstreetmap.org/node/2384904798</desc>
+  </wpt>
+  <wpt lat="60.9114536" lon="13.9946239">
+    <name>Kuvån</name>
+    <desc>https://www.openstreetmap.org/node/2404029922</desc>
+  </wpt>
+  <wpt lat="59.6232374" lon="18.4223756">
+    <name>Sättra badsplats</name>
+    <desc>https://www.openstreetmap.org/node/2432327780</desc>
+  </wpt>
+  <wpt lat="60.5805431" lon="16.7575042">
+    <name>Hedåsbadet</name>
+    <desc>https://www.openstreetmap.org/node/2541650999</desc>
+  </wpt>
+  <wpt lat="60.5763315" lon="16.7649173">
+    <name>Sörtuttsbadet</name>
+    <desc>https://www.openstreetmap.org/node/2543087172</desc>
+  </wpt>
+  <wpt lat="58.0758129" lon="13.0195680">
+    <name>Badhus</name>
+    <desc>https://www.openstreetmap.org/node/2695246485</desc>
+  </wpt>
+  <wpt lat="60.2885968" lon="17.6725425">
+    <name>Strömabadet</name>
+    <desc>https://www.openstreetmap.org/node/2951261235</desc>
+  </wpt>
+  <wpt lat="58.9901071" lon="12.4341812">
+    <name>node_2951551825</name>
+    <desc>https://www.openstreetmap.org/node/2951551825</desc>
+  </wpt>
+  <wpt lat="59.8368135" lon="17.2144715">
+    <name>node_2975408000</name>
+    <desc>https://www.openstreetmap.org/node/2975408000</desc>
+  </wpt>
+  <wpt lat="61.1036927" lon="14.4886400">
+    <name>Ausgerd badplats</name>
+    <desc>https://www.openstreetmap.org/node/2982486283</desc>
+  </wpt>
+  <wpt lat="59.5981857" lon="17.0575463">
+    <name>Haga Brygga</name>
+    <desc>https://www.openstreetmap.org/node/3012623345</desc>
+  </wpt>
+  <wpt lat="58.0323474" lon="12.8071781">
+    <name>node_3099935612</name>
+    <desc>https://www.openstreetmap.org/node/3099935612</desc>
+  </wpt>
+  <wpt lat="60.3090871" lon="18.3362574">
+    <name>node_3102744665</name>
+    <desc>https://www.openstreetmap.org/node/3102744665</desc>
+  </wpt>
+  <wpt lat="60.5499430" lon="17.7536337">
+    <name>Fagervikens Badplats</name>
+    <desc>https://www.openstreetmap.org/node/3211469760</desc>
+  </wpt>
+  <wpt lat="62.0892158" lon="14.4709797">
+    <name>node_3268884555</name>
+    <desc>https://www.openstreetmap.org/node/3268884555</desc>
+  </wpt>
+  <wpt lat="66.7042442" lon="23.6825121">
+    <name>Badplats</name>
+    <desc>https://www.openstreetmap.org/node/3522017332</desc>
+  </wpt>
+  <wpt lat="57.7194911" lon="11.8502867">
+    <name>Sörredsbadet</name>
+    <desc>https://www.openstreetmap.org/node/3550932806</desc>
+  </wpt>
+  <wpt lat="60.5392920" lon="17.6233571">
+    <name>Djupöbadet</name>
+    <desc>https://www.openstreetmap.org/node/3581697113</desc>
+  </wpt>
+  <wpt lat="59.4687678" lon="18.3180900">
+    <name>Fiskartorpet</name>
+    <desc>https://www.openstreetmap.org/node/3801075865</desc>
+  </wpt>
+  <wpt lat="60.9073271" lon="13.9980551">
+    <name>Lillsanden</name>
+    <desc>https://www.openstreetmap.org/node/3895721168</desc>
+  </wpt>
+  <wpt lat="59.7347571" lon="17.4618958">
+    <name>node_4086369761</name>
+    <desc>https://www.openstreetmap.org/node/4086369761</desc>
+  </wpt>
+  <wpt lat="60.5504322" lon="17.4282464">
+    <name>Stationsbadet</name>
+    <desc>https://www.openstreetmap.org/node/4139414062</desc>
+  </wpt>
+  <wpt lat="60.1947336" lon="15.1313112">
+    <name>Sligen</name>
+    <desc>https://www.openstreetmap.org/node/4191819480</desc>
+  </wpt>
+  <wpt lat="59.8605307" lon="17.8639705">
+    <name>node_4223254774</name>
+    <desc>https://www.openstreetmap.org/node/4223254774</desc>
+  </wpt>
+  <wpt lat="58.1058064" lon="11.3641020">
+    <name>Dambad / Kallbadhusen</name>
+    <desc>https://www.openstreetmap.org/node/4340846527</desc>
+  </wpt>
+  <wpt lat="58.1067497" lon="11.3642201">
+    <name>Herrbad / Kallbadhusen</name>
+    <desc>https://www.openstreetmap.org/node/4340846531</desc>
+  </wpt>
+  <wpt lat="57.7341221" lon="14.2649541">
+    <name>node_4457101199</name>
+    <desc>https://www.openstreetmap.org/node/4457101199</desc>
+  </wpt>
+  <wpt lat="55.9959818" lon="12.7402354">
+    <name>Råå Kallbadhus</name>
+    <desc>https://www.openstreetmap.org/node/4658914793</desc>
+  </wpt>
+  <wpt lat="56.9294105" lon="18.2721627">
+    <name>node_4959041705</name>
+    <desc>https://www.openstreetmap.org/node/4959041705</desc>
+  </wpt>
+  <wpt lat="60.6059313" lon="15.5611655">
+    <name>node_5003086624</name>
+    <desc>https://www.openstreetmap.org/node/5003086624</desc>
+  </wpt>
+  <wpt lat="60.5804516" lon="15.5892670">
+    <name>Södra Vällan</name>
+    <desc>https://www.openstreetmap.org/node/5003086625</desc>
+  </wpt>
+  <wpt lat="59.9129994" lon="16.4009910">
+    <name>Stävrebadet</name>
+    <desc>https://www.openstreetmap.org/node/5007916319</desc>
+  </wpt>
+  <wpt lat="60.6214763" lon="15.5951518">
+    <name>Slättabadet</name>
+    <desc>https://www.openstreetmap.org/node/5035167273</desc>
+  </wpt>
+  <wpt lat="59.2147674" lon="16.9347339">
+    <name>Porsudden</name>
+    <desc>https://www.openstreetmap.org/node/5109620270</desc>
+  </wpt>
+  <wpt lat="59.2383870" lon="16.7730063">
+    <name>node_5110640299</name>
+    <desc>https://www.openstreetmap.org/node/5110640299</desc>
+  </wpt>
+  <wpt lat="61.2817556" lon="14.0068329">
+    <name>Badplats</name>
+    <desc>https://www.openstreetmap.org/node/5251192346</desc>
+  </wpt>
+  <wpt lat="60.8185819" lon="14.9873661">
+    <name>node_5584776293</name>
+    <desc>https://www.openstreetmap.org/node/5584776293</desc>
+  </wpt>
+  <wpt lat="60.4907609" lon="17.4212548">
+    <name>node_5610846153</name>
+    <desc>https://www.openstreetmap.org/node/5610846153</desc>
+  </wpt>
+  <wpt lat="59.4270042" lon="17.7715332">
+    <name>node_5676270992</name>
+    <desc>https://www.openstreetmap.org/node/5676270992</desc>
+  </wpt>
+  <wpt lat="59.4269708" lon="17.7707344">
+    <name>node_5676270993</name>
+    <desc>https://www.openstreetmap.org/node/5676270993</desc>
+  </wpt>
+  <wpt lat="61.1197999" lon="16.7222208">
+    <name>node_5707423330</name>
+    <desc>https://www.openstreetmap.org/node/5707423330</desc>
+  </wpt>
+  <wpt lat="59.3342483" lon="14.9332269">
+    <name>node_5808538681</name>
+    <desc>https://www.openstreetmap.org/node/5808538681</desc>
+  </wpt>
+  <wpt lat="59.3241153" lon="14.9067762">
+    <name>node_5808538682</name>
+    <desc>https://www.openstreetmap.org/node/5808538682</desc>
+  </wpt>
+  <wpt lat="59.3273843" lon="14.9076319">
+    <name>node_5808538683</name>
+    <desc>https://www.openstreetmap.org/node/5808538683</desc>
+  </wpt>
+  <wpt lat="59.3351614" lon="14.9172690">
+    <name>node_5808538689</name>
+    <desc>https://www.openstreetmap.org/node/5808538689</desc>
+  </wpt>
+  <wpt lat="59.8730730" lon="18.8816232">
+    <name>node_5827232116</name>
+    <desc>https://www.openstreetmap.org/node/5827232116</desc>
+  </wpt>
+  <wpt lat="59.8685364" lon="18.8801397">
+    <name>node_5827493562</name>
+    <desc>https://www.openstreetmap.org/node/5827493562</desc>
+  </wpt>
+  <wpt lat="65.2315357" lon="19.8517556">
+    <name>node_5838815199</name>
+    <desc>https://www.openstreetmap.org/node/5838815199</desc>
+  </wpt>
+  <wpt lat="59.4676868" lon="18.3153670">
+    <name>Badholmen</name>
+    <desc>https://www.openstreetmap.org/node/5908605393</desc>
+  </wpt>
+  <wpt lat="59.3464678" lon="18.1830785">
+    <name>Badberget</name>
+    <desc>https://www.openstreetmap.org/node/5943864530</desc>
+  </wpt>
+  <wpt lat="59.8964137" lon="18.3888169">
+    <name>node_6071220684</name>
+    <desc>https://www.openstreetmap.org/node/6071220684</desc>
+  </wpt>
+  <wpt lat="59.7171820" lon="13.6689031">
+    <name>Älvsbacka badplats</name>
+    <desc>https://www.openstreetmap.org/node/6172904344</desc>
+  </wpt>
+  <wpt lat="61.3604357" lon="16.4030495">
+    <name>Hällen</name>
+    <desc>https://www.openstreetmap.org/node/6236355507</desc>
+  </wpt>
+  <wpt lat="61.1284984" lon="16.9264880">
+    <name>Playa Del Soul</name>
+    <desc>https://www.openstreetmap.org/node/6236534609</desc>
+  </wpt>
+  <wpt lat="57.5625869" lon="12.5799747">
+    <name>Lilla Hålsjön</name>
+    <desc>https://www.openstreetmap.org/node/6282378403</desc>
+  </wpt>
+  <wpt lat="57.9811626" lon="12.2128621">
+    <name>Skepplanda simhall</name>
+    <desc>https://www.openstreetmap.org/node/6284894844</desc>
+  </wpt>
+  <wpt lat="59.0357015" lon="12.1900418">
+    <name>node_6285122170</name>
+    <desc>https://www.openstreetmap.org/node/6285122170</desc>
+  </wpt>
+  <wpt lat="60.9238326" lon="15.1042587">
+    <name>Badplats</name>
+    <desc>https://www.openstreetmap.org/node/6444697818</desc>
+  </wpt>
+  <wpt lat="63.3399426" lon="19.1678676">
+    <name>Badbryggan</name>
+    <desc>https://www.openstreetmap.org/node/6463970124</desc>
+  </wpt>
+  <wpt lat="64.3731464" lon="15.6908020">
+    <name>node_6473933324</name>
+    <desc>https://www.openstreetmap.org/node/6473933324</desc>
+  </wpt>
+  <wpt lat="59.0025328" lon="15.1776998">
+    <name>Tisarstrands Badplats</name>
+    <desc>https://www.openstreetmap.org/node/6515483808</desc>
+  </wpt>
+  <wpt lat="59.0800704" lon="15.4278473">
+    <name>Tjäruddens Badplats</name>
+    <desc>https://www.openstreetmap.org/node/6515483809</desc>
+  </wpt>
+  <wpt lat="59.0527792" lon="15.5518494">
+    <name>Solbergabadet</name>
+    <desc>https://www.openstreetmap.org/node/6515484519</desc>
+  </wpt>
+  <wpt lat="59.0079035" lon="15.2213655">
+    <name>Sandviksbaden</name>
+    <desc>https://www.openstreetmap.org/node/6515489988</desc>
+  </wpt>
+  <wpt lat="63.9159922" lon="19.2102645">
+    <name>node_6579957590</name>
+    <desc>https://www.openstreetmap.org/node/6579957590</desc>
+  </wpt>
+  <wpt lat="61.2424791" lon="12.8043658">
+    <name>node_6646350392</name>
+    <desc>https://www.openstreetmap.org/node/6646350392</desc>
+  </wpt>
+  <wpt lat="63.9516544" lon="19.3256445">
+    <name>Lill-Armsjön</name>
+    <desc>https://www.openstreetmap.org/node/6655394676</desc>
+  </wpt>
+  <wpt lat="63.9241992" lon="19.1979569">
+    <name>node_6655398389</name>
+    <desc>https://www.openstreetmap.org/node/6655398389</desc>
+  </wpt>
+  <wpt lat="59.3290090" lon="16.4733432">
+    <name>node_6681762456</name>
+    <desc>https://www.openstreetmap.org/node/6681762456</desc>
+  </wpt>
+  <wpt lat="63.8903102" lon="19.3944384">
+    <name>node_6903861464</name>
+    <desc>https://www.openstreetmap.org/node/6903861464</desc>
+  </wpt>
+  <wpt lat="56.7177348" lon="13.1413004">
+    <name>node_6928693517</name>
+    <desc>https://www.openstreetmap.org/node/6928693517</desc>
+  </wpt>
+  <wpt lat="59.4492280" lon="17.9421519">
+    <name>node_6960303550</name>
+    <desc>https://www.openstreetmap.org/node/6960303550</desc>
+  </wpt>
+  <wpt lat="58.7665789" lon="17.1617876">
+    <name>Ångenbadet</name>
+    <desc>https://www.openstreetmap.org/node/7035156349</desc>
+  </wpt>
+  <wpt lat="59.3498425" lon="18.0458038">
+    <name>Vattenhuset</name>
+    <desc>https://www.openstreetmap.org/node/7036030721</desc>
+  </wpt>
+  <wpt lat="59.4382276" lon="18.3388492">
+    <name>node_7071568442</name>
+    <desc>https://www.openstreetmap.org/node/7071568442</desc>
+  </wpt>
+  <wpt lat="63.1515384" lon="15.8262411">
+    <name>node_7078282361</name>
+    <desc>https://www.openstreetmap.org/node/7078282361</desc>
+  </wpt>
+  <wpt lat="60.5794841" lon="17.4524218">
+    <name>node_7093674132</name>
+    <desc>https://www.openstreetmap.org/node/7093674132</desc>
+  </wpt>
+  <wpt lat="60.5883859" lon="17.4508516">
+    <name>node_7128934641</name>
+    <desc>https://www.openstreetmap.org/node/7128934641</desc>
+  </wpt>
+  <wpt lat="62.4916176" lon="17.1181453">
+    <name>Stampen</name>
+    <desc>https://www.openstreetmap.org/node/7152615507</desc>
+  </wpt>
+  <wpt lat="57.3647110" lon="12.4662825">
+    <name>L:a Horredsjön</name>
+    <desc>https://www.openstreetmap.org/node/7168888554</desc>
+  </wpt>
+  <wpt lat="62.0188115" lon="14.2084509">
+    <name>Herrö Strand</name>
+    <desc>https://www.openstreetmap.org/node/7207754872</desc>
+  </wpt>
+  <wpt lat="60.7171621" lon="17.1420182">
+    <name>Forsbybadet</name>
+    <desc>https://www.openstreetmap.org/node/7262036614</desc>
+  </wpt>
+  <wpt lat="60.1463918" lon="16.8152511">
+    <name>node_7416854807</name>
+    <desc>https://www.openstreetmap.org/node/7416854807</desc>
+  </wpt>
+  <wpt lat="59.9609024" lon="17.6891007">
+    <name>Storvretabadet</name>
+    <desc>https://www.openstreetmap.org/node/7417759499</desc>
+  </wpt>
+  <wpt lat="60.1765940" lon="16.7848644">
+    <name>node_7417817049</name>
+    <desc>https://www.openstreetmap.org/node/7417817049</desc>
+  </wpt>
+  <wpt lat="60.1738914" lon="16.7887455">
+    <name>node_7417817051</name>
+    <desc>https://www.openstreetmap.org/node/7417817051</desc>
+  </wpt>
+  <wpt lat="64.4959846" lon="21.1991501">
+    <name>node_7448596058</name>
+    <desc>https://www.openstreetmap.org/node/7448596058</desc>
+  </wpt>
+  <wpt lat="64.4943077" lon="21.0193670">
+    <name>node_7448596796</name>
+    <desc>https://www.openstreetmap.org/node/7448596796</desc>
+  </wpt>
+  <wpt lat="64.5137318" lon="21.0715681">
+    <name>node_7448597065</name>
+    <desc>https://www.openstreetmap.org/node/7448597065</desc>
+  </wpt>
+  <wpt lat="64.3390298" lon="19.7022414">
+    <name>node_7481925972</name>
+    <desc>https://www.openstreetmap.org/node/7481925972</desc>
+  </wpt>
+  <wpt lat="64.3175031" lon="19.6823394">
+    <name>node_7482098973</name>
+    <desc>https://www.openstreetmap.org/node/7482098973</desc>
+  </wpt>
+  <wpt lat="64.2322564" lon="19.7330171">
+    <name>node_7498316688</name>
+    <desc>https://www.openstreetmap.org/node/7498316688</desc>
+  </wpt>
+  <wpt lat="64.2656217" lon="19.4188607">
+    <name>node_7498799789</name>
+    <desc>https://www.openstreetmap.org/node/7498799789</desc>
+  </wpt>
+  <wpt lat="64.2256279" lon="19.9823498">
+    <name>node_7500467876</name>
+    <desc>https://www.openstreetmap.org/node/7500467876</desc>
+  </wpt>
+  <wpt lat="65.1197963" lon="18.2770067">
+    <name>node_7514626230</name>
+    <desc>https://www.openstreetmap.org/node/7514626230</desc>
+  </wpt>
+  <wpt lat="65.3130347" lon="17.9732949">
+    <name>node_7519676313</name>
+    <desc>https://www.openstreetmap.org/node/7519676313</desc>
+  </wpt>
+  <wpt lat="64.4609505" lon="21.5815902">
+    <name>node_7536283077</name>
+    <desc>https://www.openstreetmap.org/node/7536283077</desc>
+  </wpt>
+  <wpt lat="60.1768675" lon="18.7770939">
+    <name>node_7570185164</name>
+    <desc>https://www.openstreetmap.org/node/7570185164</desc>
+  </wpt>
+  <wpt lat="63.6510274" lon="17.0464851">
+    <name>node_7572164927</name>
+    <desc>https://www.openstreetmap.org/node/7572164927</desc>
+  </wpt>
+  <wpt lat="60.6206812" lon="17.4303737">
+    <name>node_7589870431</name>
+    <desc>https://www.openstreetmap.org/node/7589870431</desc>
+  </wpt>
+  <wpt lat="60.6278755" lon="17.4383559">
+    <name>node_7589870435</name>
+    <desc>https://www.openstreetmap.org/node/7589870435</desc>
+  </wpt>
+  <wpt lat="60.5876152" lon="17.5902050">
+    <name>Stigenbergsbadet</name>
+    <desc>https://www.openstreetmap.org/node/7615848328</desc>
+  </wpt>
+  <wpt lat="58.8733715" lon="17.4102775">
+    <name>Lilla badet</name>
+    <desc>https://www.openstreetmap.org/node/7671051887</desc>
+  </wpt>
+  <wpt lat="58.8724125" lon="17.4128115">
+    <name>Minibadet</name>
+    <desc>https://www.openstreetmap.org/node/7671051888</desc>
+  </wpt>
+  <wpt lat="58.8707788" lon="17.4107301">
+    <name>Stora badet</name>
+    <desc>https://www.openstreetmap.org/node/7671051889</desc>
+  </wpt>
+  <wpt lat="60.7309313" lon="14.9545808">
+    <name>Västanviksbadet</name>
+    <desc>https://www.openstreetmap.org/node/7695622683</desc>
+  </wpt>
+  <wpt lat="58.1014095" lon="11.5111340">
+    <name>node_7707604692</name>
+    <desc>https://www.openstreetmap.org/node/7707604692</desc>
+  </wpt>
+  <wpt lat="58.1054435" lon="11.5041016">
+    <name>node_7707604695</name>
+    <desc>https://www.openstreetmap.org/node/7707604695</desc>
+  </wpt>
+  <wpt lat="60.3524229" lon="15.4499314">
+    <name>node_7743981803</name>
+    <desc>https://www.openstreetmap.org/node/7743981803</desc>
+  </wpt>
+  <wpt lat="59.7529283" lon="17.6367339">
+    <name>Morga Hage</name>
+    <desc>https://www.openstreetmap.org/node/7794288862</desc>
+  </wpt>
+  <wpt lat="60.0277921" lon="17.5724119">
+    <name>Sandviksbadet</name>
+    <desc>https://www.openstreetmap.org/node/7798070078</desc>
+  </wpt>
+  <wpt lat="60.1761298" lon="17.4218166">
+    <name>node_7798237463</name>
+    <desc>https://www.openstreetmap.org/node/7798237463</desc>
+  </wpt>
+  <wpt lat="60.8928151" lon="15.0933668">
+    <name>node_7798886275</name>
+    <desc>https://www.openstreetmap.org/node/7798886275</desc>
+  </wpt>
+  <wpt lat="60.7877081" lon="12.9383326">
+    <name>node_7798886276</name>
+    <desc>https://www.openstreetmap.org/node/7798886276</desc>
+  </wpt>
+  <wpt lat="60.9656332" lon="13.3429170">
+    <name>node_7798886277</name>
+    <desc>https://www.openstreetmap.org/node/7798886277</desc>
+  </wpt>
+  <wpt lat="59.5029214" lon="18.0455214">
+    <name>node_7798925586</name>
+    <desc>https://www.openstreetmap.org/node/7798925586</desc>
+  </wpt>
+  <wpt lat="60.1443663" lon="15.9585482">
+    <name>node_7816155554</name>
+    <desc>https://www.openstreetmap.org/node/7816155554</desc>
+  </wpt>
+  <wpt lat="59.7975391" lon="12.5644376">
+    <name>node_7886226671</name>
+    <desc>https://www.openstreetmap.org/node/7886226671</desc>
+  </wpt>
+  <wpt lat="58.6586170" lon="16.1462322">
+    <name>Lillsjöns badplats</name>
+    <desc>https://www.openstreetmap.org/node/7908845967</desc>
+  </wpt>
+  <wpt lat="58.6759353" lon="16.1191329">
+    <name>Ågelsjöns badplats</name>
+    <desc>https://www.openstreetmap.org/node/7908845968</desc>
+  </wpt>
+  <wpt lat="56.1720228" lon="15.5206973">
+    <name>Grönadals Strand</name>
+    <desc>https://www.openstreetmap.org/node/8010927416</desc>
+  </wpt>
+  <wpt lat="58.0784081" lon="12.2184208">
+    <name>node_8043734596</name>
+    <desc>https://www.openstreetmap.org/node/8043734596</desc>
+  </wpt>
+  <wpt lat="57.9717180" lon="16.8021456">
+    <name>node_8047665998</name>
+    <desc>https://www.openstreetmap.org/node/8047665998</desc>
+  </wpt>
+  <wpt lat="60.4818913" lon="16.5364028">
+    <name>Malmjärns badplats</name>
+    <desc>https://www.openstreetmap.org/node/8074077634</desc>
+  </wpt>
+  <wpt lat="56.9921718" lon="12.5557208">
+    <name>Ljungsjön</name>
+    <desc>https://www.openstreetmap.org/node/8074784570</desc>
+  </wpt>
+  <wpt lat="58.4848491" lon="15.6591349">
+    <name>Roxtuna badplats</name>
+    <desc>https://www.openstreetmap.org/node/8084189920</desc>
+  </wpt>
+  <wpt lat="56.1734233" lon="15.5175681">
+    <name>Grönadals Brygga</name>
+    <desc>https://www.openstreetmap.org/node/8094496765</desc>
+  </wpt>
+  <wpt lat="58.2761766" lon="12.1901420">
+    <name>Phoenixstranden</name>
+    <desc>https://www.openstreetmap.org/node/8176851914</desc>
+  </wpt>
+  <wpt lat="58.2738174" lon="12.1917858">
+    <name>Öresjö badplats</name>
+    <desc>https://www.openstreetmap.org/node/8176902490</desc>
+  </wpt>
+  <wpt lat="59.3567002" lon="13.6360811">
+    <name>node_8287681544</name>
+    <desc>https://www.openstreetmap.org/node/8287681544</desc>
+  </wpt>
+  <wpt lat="57.7930589" lon="14.2434833">
+    <name>Sannabadet</name>
+    <desc>https://www.openstreetmap.org/node/8313192217</desc>
+  </wpt>
+  <wpt lat="57.6978997" lon="11.7407105">
+    <name>Andalensbadet</name>
+    <desc>https://www.openstreetmap.org/node/8337440111</desc>
+  </wpt>
+  <wpt lat="58.5812509" lon="14.4375384">
+    <name>node_8435866381</name>
+    <desc>https://www.openstreetmap.org/node/8435866381</desc>
+  </wpt>
+  <wpt lat="56.1776093" lon="15.0426908">
+    <name>node_8610864375</name>
+    <desc>https://www.openstreetmap.org/node/8610864375</desc>
+  </wpt>
+  <wpt lat="56.1733801" lon="15.0521430">
+    <name>node_8610864378</name>
+    <desc>https://www.openstreetmap.org/node/8610864378</desc>
+  </wpt>
+  <wpt lat="56.1718600" lon="15.0534313">
+    <name>node_8610864379</name>
+    <desc>https://www.openstreetmap.org/node/8610864379</desc>
+  </wpt>
+  <wpt lat="59.4000993" lon="14.4152392">
+    <name>node_8622819389</name>
+    <desc>https://www.openstreetmap.org/node/8622819389</desc>
+  </wpt>
+  <wpt lat="57.5408031" lon="13.3787213">
+    <name>node_8665868703</name>
+    <desc>https://www.openstreetmap.org/node/8665868703</desc>
+  </wpt>
+  <wpt lat="57.1000364" lon="13.6254248">
+    <name>Flatenbadet</name>
+    <desc>https://www.openstreetmap.org/node/8682212684</desc>
+  </wpt>
+  <wpt lat="58.0151676" lon="11.8004628">
+    <name>Getskärs badplats</name>
+    <desc>https://www.openstreetmap.org/node/8682215107</desc>
+  </wpt>
+  <wpt lat="59.3451516" lon="18.3267684">
+    <name>Velamsundsbadet</name>
+    <desc>https://www.openstreetmap.org/node/8687432173</desc>
+  </wpt>
+  <wpt lat="58.4275667" lon="11.4270915">
+    <name>Badplats Röd</name>
+    <desc>https://www.openstreetmap.org/node/8695188077</desc>
+  </wpt>
+  <wpt lat="56.6964671" lon="15.7537889">
+    <name>node_8700951301</name>
+    <desc>https://www.openstreetmap.org/node/8700951301</desc>
+  </wpt>
+  <wpt lat="56.7375046" lon="15.9193275">
+    <name>node_8701002949</name>
+    <desc>https://www.openstreetmap.org/node/8701002949</desc>
+  </wpt>
+  <wpt lat="59.8461383" lon="13.5500206">
+    <name>node_8701582318</name>
+    <desc>https://www.openstreetmap.org/node/8701582318</desc>
+  </wpt>
+  <wpt lat="59.1543823" lon="12.9166733">
+    <name>node_8720545241</name>
+    <desc>https://www.openstreetmap.org/node/8720545241</desc>
+  </wpt>
+  <wpt lat="57.4238748" lon="12.4909115">
+    <name>Stora Navsjön</name>
+    <desc>https://www.openstreetmap.org/node/8729950138</desc>
+  </wpt>
+  <wpt lat="57.8094677" lon="13.0061133">
+    <name>node_8758892352</name>
+    <desc>https://www.openstreetmap.org/node/8758892352</desc>
+  </wpt>
+  <wpt lat="61.4600993" lon="16.1879020">
+    <name>node_8779304699</name>
+    <desc>https://www.openstreetmap.org/node/8779304699</desc>
+  </wpt>
+  <wpt lat="59.9270683" lon="16.5673878">
+    <name>Långforsbadet</name>
+    <desc>https://www.openstreetmap.org/node/8787318697</desc>
+  </wpt>
+  <wpt lat="60.9996956" lon="14.5739678">
+    <name>Sandabadet</name>
+    <desc>https://www.openstreetmap.org/node/8807787573</desc>
+  </wpt>
+  <wpt lat="59.8340723" lon="14.7303083">
+    <name>Bredsjö</name>
+    <desc>https://www.openstreetmap.org/node/8812954742</desc>
+  </wpt>
+  <wpt lat="59.9801716" lon="18.8797392">
+    <name>node_8817126893</name>
+    <desc>https://www.openstreetmap.org/node/8817126893</desc>
+  </wpt>
+  <wpt lat="56.6438348" lon="12.7438496">
+    <name>node_8823258017</name>
+    <desc>https://www.openstreetmap.org/node/8823258017</desc>
+  </wpt>
+  <wpt lat="60.3663352" lon="16.0472274">
+    <name>node_8856049225</name>
+    <desc>https://www.openstreetmap.org/node/8856049225</desc>
+  </wpt>
+  <wpt lat="58.8442044" lon="13.6713596">
+    <name>node_8859863351</name>
+    <desc>https://www.openstreetmap.org/node/8859863351</desc>
+  </wpt>
+  <wpt lat="59.0734206" lon="12.4519529">
+    <name>node_8882093726</name>
+    <desc>https://www.openstreetmap.org/node/8882093726</desc>
+  </wpt>
+  <wpt lat="64.2623932" lon="16.4200598">
+    <name>node_8929213583</name>
+    <desc>https://www.openstreetmap.org/node/8929213583</desc>
+  </wpt>
+  <wpt lat="59.8540203" lon="14.4616449">
+    <name>node_8929273136</name>
+    <desc>https://www.openstreetmap.org/node/8929273136</desc>
+  </wpt>
+  <wpt lat="58.4545074" lon="14.7894332">
+    <name>Järnevid friluftsbad</name>
+    <desc>https://www.openstreetmap.org/node/8929387497</desc>
+  </wpt>
+  <wpt lat="57.2954371" lon="13.3538175">
+    <name>node_8929396097</name>
+    <desc>https://www.openstreetmap.org/node/8929396097</desc>
+  </wpt>
+  <wpt lat="56.6630912" lon="15.6891078">
+    <name>node_9019271669</name>
+    <desc>https://www.openstreetmap.org/node/9019271669</desc>
+  </wpt>
+  <wpt lat="60.7790848" lon="15.8979378">
+    <name>node_9037335850</name>
+    <desc>https://www.openstreetmap.org/node/9037335850</desc>
+  </wpt>
+  <wpt lat="63.6912529" lon="18.8682773">
+    <name>node_9202447258</name>
+    <desc>https://www.openstreetmap.org/node/9202447258</desc>
+  </wpt>
+  <wpt lat="63.6287965" lon="18.6868575">
+    <name>node_9202455769</name>
+    <desc>https://www.openstreetmap.org/node/9202455769</desc>
+  </wpt>
+  <wpt lat="59.2371361" lon="16.3901412">
+    <name>node_9297701813</name>
+    <desc>https://www.openstreetmap.org/node/9297701813</desc>
+  </wpt>
+  <wpt lat="58.6294857" lon="14.5640685">
+    <name>Djäknesundet</name>
+    <desc>https://www.openstreetmap.org/node/9303686974</desc>
+  </wpt>
+  <wpt lat="61.2304886" lon="16.8239471">
+    <name>node_9325167914</name>
+    <desc>https://www.openstreetmap.org/node/9325167914</desc>
+  </wpt>
+  <wpt lat="65.8414559" lon="22.3718491">
+    <name>Kängsö havsbad</name>
+    <desc>https://www.openstreetmap.org/node/9336575134</desc>
+  </wpt>
+  <wpt lat="59.2322935" lon="16.3700074">
+    <name>node_9422370977</name>
+    <desc>https://www.openstreetmap.org/node/9422370977</desc>
+  </wpt>
+  <wpt lat="59.4819056" lon="17.7131378">
+    <name>node_9507900810</name>
+    <desc>https://www.openstreetmap.org/node/9507900810</desc>
+  </wpt>
+  <wpt lat="60.7119141" lon="15.8743947">
+    <name>Rävilsbadet</name>
+    <desc>https://www.openstreetmap.org/node/9754331266</desc>
+  </wpt>
+  <wpt lat="56.5002173" lon="13.0520606">
+    <name>Glänninge badplats</name>
+    <desc>https://www.openstreetmap.org/node/9806189792</desc>
+  </wpt>
+  <wpt lat="59.2925711" lon="11.9891337">
+    <name>Ned Blomsjön</name>
+    <desc>https://www.openstreetmap.org/node/9853495380</desc>
+  </wpt>
+  <wpt lat="59.2879601" lon="11.9893938">
+    <name>Ned Blomsjön</name>
+    <desc>https://www.openstreetmap.org/node/9853495381</desc>
+  </wpt>
+  <wpt lat="56.3673752" lon="13.9857221">
+    <name>node_9866224696</name>
+    <desc>https://www.openstreetmap.org/node/9866224696</desc>
+  </wpt>
+  <wpt lat="56.1117909" lon="14.5125926">
+    <name>node_9880956835</name>
+    <desc>https://www.openstreetmap.org/node/9880956835</desc>
+  </wpt>
+  <wpt lat="59.4132342" lon="18.4985876">
+    <name>Klippbadet</name>
+    <desc>https://www.openstreetmap.org/node/9885984987</desc>
+  </wpt>
+  <wpt lat="58.1054277" lon="14.0881707">
+    <name>node_9886577753</name>
+    <desc>https://www.openstreetmap.org/node/9886577753</desc>
+  </wpt>
+  <wpt lat="58.8788083" lon="14.9197583">
+    <name>Hagabadet</name>
+    <desc>https://www.openstreetmap.org/node/9887254314</desc>
+  </wpt>
+  <wpt lat="65.9334490" lon="22.8843683">
+    <name>Sandbergsviken</name>
+    <desc>https://www.openstreetmap.org/node/9894942850</desc>
+  </wpt>
+  <wpt lat="59.0776216" lon="16.5662310">
+    <name>node_9909493284</name>
+    <desc>https://www.openstreetmap.org/node/9909493284</desc>
+  </wpt>
+  <wpt lat="56.7913860" lon="16.4435962">
+    <name>node_9914104954</name>
+    <desc>https://www.openstreetmap.org/node/9914104954</desc>
+  </wpt>
+  <wpt lat="64.6685861" lon="20.6162609">
+    <name>node_9916396633</name>
+    <desc>https://www.openstreetmap.org/node/9916396633</desc>
+  </wpt>
+  <wpt lat="57.0012057" lon="18.2038047">
+    <name>node_9920944291</name>
+    <desc>https://www.openstreetmap.org/node/9920944291</desc>
+  </wpt>
+  <wpt lat="57.2329181" lon="12.7178538">
+    <name>node_9921083392</name>
+    <desc>https://www.openstreetmap.org/node/9921083392</desc>
+  </wpt>
+  <wpt lat="57.3951100" lon="12.8233536">
+    <name>node_9921083396</name>
+    <desc>https://www.openstreetmap.org/node/9921083396</desc>
+  </wpt>
+  <wpt lat="57.1911906" lon="12.3486652">
+    <name>node_9933438981</name>
+    <desc>https://www.openstreetmap.org/node/9933438981</desc>
+  </wpt>
+  <wpt lat="57.0631245" lon="12.2771460">
+    <name>Träslövsläge havsbad</name>
+    <desc>https://www.openstreetmap.org/node/9935732069</desc>
+  </wpt>
+  <wpt lat="59.5223302" lon="13.4521210">
+    <name>node_9949035053</name>
+    <desc>https://www.openstreetmap.org/node/9949035053</desc>
+  </wpt>
+  <wpt lat="57.5235026" lon="12.5091033">
+    <name>node_10003608412</name>
+    <desc>https://www.openstreetmap.org/node/10003608412</desc>
+  </wpt>
+  <wpt lat="55.3931451" lon="13.6031121">
+    <name>node_10012971913</name>
+    <desc>https://www.openstreetmap.org/node/10012971913</desc>
+  </wpt>
+  <wpt lat="57.9218913" lon="11.5813259">
+    <name>node_10089526198</name>
+    <desc>https://www.openstreetmap.org/node/10089526198</desc>
+  </wpt>
+  <wpt lat="59.3502089" lon="18.1917443">
+    <name>node_10097291972</name>
+    <desc>https://www.openstreetmap.org/node/10097291972</desc>
+  </wpt>
+  <wpt lat="60.1179744" lon="15.2622923">
+    <name>node_10131380884</name>
+    <desc>https://www.openstreetmap.org/node/10131380884</desc>
+  </wpt>
+  <wpt lat="61.7958207" lon="16.8836163">
+    <name>Dånsjön</name>
+    <desc>https://www.openstreetmap.org/node/10158629891</desc>
+  </wpt>
+  <wpt lat="61.8379719" lon="16.9236182">
+    <name>Finnsjön</name>
+    <desc>https://www.openstreetmap.org/node/10158911515</desc>
+  </wpt>
+  <wpt lat="61.8645622" lon="16.2767613">
+    <name>Gunnarsbosjön</name>
+    <desc>https://www.openstreetmap.org/node/10159070929</desc>
+  </wpt>
+  <wpt lat="61.3760336" lon="15.8217507">
+    <name>Öjeparkens Bad</name>
+    <desc>https://www.openstreetmap.org/node/10233397970</desc>
+  </wpt>
+  <wpt lat="58.4760266" lon="11.3146478">
+    <name>Badholmarna</name>
+    <desc>https://www.openstreetmap.org/node/10248577966</desc>
+  </wpt>
+  <wpt lat="58.3732166" lon="11.2857754">
+    <name>node_10248617316</name>
+    <desc>https://www.openstreetmap.org/node/10248617316</desc>
+  </wpt>
+  <wpt lat="58.3555941" lon="11.2327327">
+    <name>node_10248664346</name>
+    <desc>https://www.openstreetmap.org/node/10248664346</desc>
+  </wpt>
+  <wpt lat="56.1418432" lon="12.5798511">
+    <name>Grähsa brygga</name>
+    <desc>https://www.openstreetmap.org/node/10249906942</desc>
+  </wpt>
+  <wpt lat="58.3735393" lon="11.3030729">
+    <name>node_10275837065</name>
+    <desc>https://www.openstreetmap.org/node/10275837065</desc>
+  </wpt>
+  <wpt lat="59.7900174" lon="15.3648518">
+    <name>node_10325884610</name>
+    <desc>https://www.openstreetmap.org/node/10325884610</desc>
+  </wpt>
+  <wpt lat="57.3156871" lon="12.8698092">
+    <name>node_10536523512</name>
+    <desc>https://www.openstreetmap.org/node/10536523512</desc>
+  </wpt>
+  <wpt lat="57.4451623" lon="12.6696034">
+    <name>Slättersnabb</name>
+    <desc>https://www.openstreetmap.org/node/10693720518</desc>
+  </wpt>
+  <wpt lat="60.2822373" lon="13.7906122">
+    <name>node_10746397353</name>
+    <desc>https://www.openstreetmap.org/node/10746397353</desc>
+  </wpt>
+  <wpt lat="56.9958802" lon="16.5202001">
+    <name>Campingens bad</name>
+    <desc>https://www.openstreetmap.org/node/10753689647</desc>
+  </wpt>
+  <wpt lat="61.2632606" lon="17.2169434">
+    <name>Branthäll</name>
+    <desc>https://www.openstreetmap.org/node/10797350300</desc>
+  </wpt>
+  <wpt lat="60.4521347" lon="15.4649168">
+    <name>node_10805579331</name>
+    <desc>https://www.openstreetmap.org/node/10805579331</desc>
+  </wpt>
+  <wpt lat="59.4276456" lon="18.1102982">
+    <name>Kråkudden</name>
+    <desc>https://www.openstreetmap.org/node/10878460656</desc>
+  </wpt>
+  <wpt lat="67.1375265" lon="20.6279829">
+    <name>Sandviken</name>
+    <desc>https://www.openstreetmap.org/node/10878739969</desc>
+  </wpt>
+  <wpt lat="60.6516700" lon="15.8456167">
+    <name>Hedkarlssjönbadet</name>
+    <desc>https://www.openstreetmap.org/node/10880302731</desc>
+  </wpt>
+  <wpt lat="62.5846922" lon="18.0059695">
+    <name>Sjövikens havsbad</name>
+    <desc>https://www.openstreetmap.org/node/10895695840</desc>
+  </wpt>
+  <wpt lat="59.3741762" lon="18.0223688">
+    <name>node_10898880352</name>
+    <desc>https://www.openstreetmap.org/node/10898880352</desc>
+  </wpt>
+  <wpt lat="61.2590894" lon="16.8236399">
+    <name>node_10899038781</name>
+    <desc>https://www.openstreetmap.org/node/10899038781</desc>
+  </wpt>
+  <wpt lat="62.6262674" lon="17.9372406">
+    <name>Badplats vid Gådeåparken</name>
+    <desc>https://www.openstreetmap.org/node/10899194163</desc>
+  </wpt>
+  <wpt lat="58.2813139" lon="11.4289303">
+    <name>node_10982638510</name>
+    <desc>https://www.openstreetmap.org/node/10982638510</desc>
+  </wpt>
+  <wpt lat="56.7748845" lon="16.4076916">
+    <name>Badplats</name>
+    <desc>https://www.openstreetmap.org/node/11010255522</desc>
+  </wpt>
+  <wpt lat="58.3034530" lon="14.2938095">
+    <name>Guldkroksbadet</name>
+    <desc>https://www.openstreetmap.org/node/11036195053</desc>
+  </wpt>
+  <wpt lat="66.8532042" lon="23.0541361">
+    <name>node_11053737251</name>
+    <desc>https://www.openstreetmap.org/node/11053737251</desc>
+  </wpt>
+  <wpt lat="67.0213114" lon="23.3568451">
+    <name>Pentasjärvi</name>
+    <desc>https://www.openstreetmap.org/node/11055812773</desc>
+  </wpt>
+  <wpt lat="59.0003392" lon="12.4633725">
+    <name>Båtbryggan</name>
+    <desc>https://www.openstreetmap.org/node/11069175789</desc>
+  </wpt>
+  <wpt lat="59.0237298" lon="12.2766930">
+    <name>node_11071459135</name>
+    <desc>https://www.openstreetmap.org/node/11071459135</desc>
+  </wpt>
+  <wpt lat="63.4552948" lon="15.9390325">
+    <name>node_11093796733</name>
+    <desc>https://www.openstreetmap.org/node/11093796733</desc>
+  </wpt>
+  <wpt lat="63.1756786" lon="17.0090484">
+    <name>node_11109256745</name>
+    <desc>https://www.openstreetmap.org/node/11109256745</desc>
+  </wpt>
+  <wpt lat="58.9732606" lon="12.4664851">
+    <name>node_11124080763</name>
+    <desc>https://www.openstreetmap.org/node/11124080763</desc>
+  </wpt>
+  <wpt lat="57.5443559" lon="14.4244857">
+    <name>Badplats Fölhult</name>
+    <desc>https://www.openstreetmap.org/node/11159746314</desc>
+  </wpt>
+  <wpt lat="59.5958276" lon="13.7125066">
+    <name>Graningebadet</name>
+    <desc>https://www.openstreetmap.org/node/11172565513</desc>
+  </wpt>
+  <wpt lat="63.1210224" lon="16.3458208">
+    <name>Badplats Koppelhällan</name>
+    <desc>https://www.openstreetmap.org/node/11174871468</desc>
+  </wpt>
+  <wpt lat="56.0581471" lon="13.6678224">
+    <name>node_11188887530</name>
+    <desc>https://www.openstreetmap.org/node/11188887530</desc>
+  </wpt>
+  <wpt lat="57.3958392" lon="14.1667661">
+    <name>Linnesjöbadet</name>
+    <desc>https://www.openstreetmap.org/node/11225593791</desc>
+  </wpt>
+  <wpt lat="59.5714557" lon="17.8513397">
+    <name>node_11229888808</name>
+    <desc>https://www.openstreetmap.org/node/11229888808</desc>
+  </wpt>
+  <wpt lat="59.5298208" lon="17.8319280">
+    <name>Sättrabadet</name>
+    <desc>https://www.openstreetmap.org/node/11229905483</desc>
+  </wpt>
+  <wpt lat="59.5463372" lon="17.9181641">
+    <name>Fysingenbadet</name>
+    <desc>https://www.openstreetmap.org/node/11229910497</desc>
+  </wpt>
+  <wpt lat="57.3738702" lon="13.9866465">
+    <name>Långasjlöns badplats</name>
+    <desc>https://www.openstreetmap.org/node/11296462303</desc>
+  </wpt>
+  <wpt lat="56.4866539" lon="14.7024752">
+    <name>node_11385864202</name>
+    <desc>https://www.openstreetmap.org/node/11385864202</desc>
+  </wpt>
+  <wpt lat="59.7846804" lon="17.6477936">
+    <name>node_11392349594</name>
+    <desc>https://www.openstreetmap.org/node/11392349594</desc>
+  </wpt>
+  <wpt lat="59.7906242" lon="17.6147676">
+    <name>Lilla Vårdsätrabadet</name>
+    <desc>https://www.openstreetmap.org/node/11392349597</desc>
+  </wpt>
+  <wpt lat="56.1898151" lon="15.0443128">
+    <name>Köpegårda Badplats</name>
+    <desc>https://www.openstreetmap.org/node/11455459533</desc>
+  </wpt>
+  <wpt lat="57.6930377" lon="14.0907182">
+    <name>Åsabadet</name>
+    <desc>https://www.openstreetmap.org/node/11492655485</desc>
+  </wpt>
+  <wpt lat="65.8522936" lon="23.1418458">
+    <name>Strandängsbadet</name>
+    <desc>https://www.openstreetmap.org/node/11521454672</desc>
+  </wpt>
+  <wpt lat="59.9792669" lon="15.7920707">
+    <name>node_11663269507</name>
+    <desc>https://www.openstreetmap.org/node/11663269507</desc>
+  </wpt>
+  <wpt lat="64.2164620" lon="15.9134460">
+    <name>node_11763465827</name>
+    <desc>https://www.openstreetmap.org/node/11763465827</desc>
+  </wpt>
+  <wpt lat="56.6357406" lon="13.0762037">
+    <name>node_11765663447</name>
+    <desc>https://www.openstreetmap.org/node/11765663447</desc>
+  </wpt>
+  <wpt lat="58.4403846" lon="11.2877565">
+    <name>Sankt Görans ö badplats</name>
+    <desc>https://www.openstreetmap.org/node/11809467455</desc>
+  </wpt>
+  <wpt lat="57.3927118" lon="12.8063301">
+    <name>Öxasjön</name>
+    <desc>https://www.openstreetmap.org/node/11840227361</desc>
+  </wpt>
+  <wpt lat="57.4725980" lon="12.7056995">
+    <name>node_11840448085</name>
+    <desc>https://www.openstreetmap.org/node/11840448085</desc>
+  </wpt>
+  <wpt lat="58.0088676" lon="16.6527280">
+    <name>node_11879667870</name>
+    <desc>https://www.openstreetmap.org/node/11879667870</desc>
+  </wpt>
+  <wpt lat="64.7888989" lon="18.6642302">
+    <name>node_11886690325</name>
+    <desc>https://www.openstreetmap.org/node/11886690325</desc>
+  </wpt>
+  <wpt lat="60.6710001" lon="16.8191624">
+    <name>Högbobadet</name>
+    <desc>https://www.openstreetmap.org/node/11935430194</desc>
+  </wpt>
+  <wpt lat="59.9200327" lon="18.3125541">
+    <name>Hosjöns badplats</name>
+    <desc>https://www.openstreetmap.org/node/11941798991</desc>
+  </wpt>
+  <wpt lat="59.9400843" lon="18.0727391">
+    <name>Testenbadet</name>
+    <desc>https://www.openstreetmap.org/node/11941798992</desc>
+  </wpt>
+  <wpt lat="59.7230541" lon="17.8053081">
+    <name>Särstabadet</name>
+    <desc>https://www.openstreetmap.org/node/11941798998</desc>
+  </wpt>
+  <wpt lat="59.5934710" lon="18.5630804">
+    <name>node_11941810412</name>
+    <desc>https://www.openstreetmap.org/node/11941810412</desc>
+  </wpt>
+  <wpt lat="59.8396863" lon="19.0067339">
+    <name>Marumsstranden</name>
+    <desc>https://www.openstreetmap.org/node/11941848320</desc>
+  </wpt>
+  <wpt lat="61.3551716" lon="16.4009356">
+    <name>Karlslundsbadet</name>
+    <desc>https://www.openstreetmap.org/node/11942124599</desc>
+  </wpt>
+  <wpt lat="57.4995759" lon="18.1159937">
+    <name>Gnisvärds strand</name>
+    <desc>https://www.openstreetmap.org/node/11942430070</desc>
+  </wpt>
+  <wpt lat="57.4871452" lon="18.1271088">
+    <name>node_11942430071</name>
+    <desc>https://www.openstreetmap.org/node/11942430071</desc>
+  </wpt>
+  <wpt lat="59.2421264" lon="18.1689925">
+    <name>Badplats</name>
+    <desc>https://www.openstreetmap.org/node/12023707270</desc>
+  </wpt>
+  <wpt lat="59.3762156" lon="18.2310055">
+    <name>Fågelöuddebadet</name>
+    <desc>https://www.openstreetmap.org/node/12041231169</desc>
+  </wpt>
+  <wpt lat="59.3533853" lon="18.0935550">
+    <name>Motalaparkens plaskdamm</name>
+    <desc>https://www.openstreetmap.org/node/12041237569</desc>
+  </wpt>
+  <wpt lat="61.7261568" lon="17.2375983">
+    <name>Sågudden</name>
+    <desc>https://www.openstreetmap.org/node/12047851487</desc>
+  </wpt>
+  <wpt lat="59.9493265" lon="17.5418697">
+    <name>node_12069927568</name>
+    <desc>https://www.openstreetmap.org/node/12069927568</desc>
+  </wpt>
+  <wpt lat="58.7636533" lon="12.4046390">
+    <name>node_12075117755</name>
+    <desc>https://www.openstreetmap.org/node/12075117755</desc>
+  </wpt>
+  <wpt lat="57.8181181" lon="12.3891327">
+    <name>node_12075794413</name>
+    <desc>https://www.openstreetmap.org/node/12075794413</desc>
+  </wpt>
+  <wpt lat="60.3165785" lon="18.6021013">
+    <name>node_12115832533</name>
+    <desc>https://www.openstreetmap.org/node/12115832533</desc>
+  </wpt>
+  <wpt lat="63.5749562" lon="15.3401072">
+    <name>node_12118250025</name>
+    <desc>https://www.openstreetmap.org/node/12118250025</desc>
+  </wpt>
+  <wpt lat="57.2356097" lon="16.0274075">
+    <name>node_12155367092</name>
+    <desc>https://www.openstreetmap.org/node/12155367092</desc>
+  </wpt>
+  <wpt lat="57.9329265" lon="13.9585119">
+    <name>node_12163412443</name>
+    <desc>https://www.openstreetmap.org/node/12163412443</desc>
+  </wpt>
+  <wpt lat="59.9463990" lon="16.3447408">
+    <name>node_12170358103</name>
+    <desc>https://www.openstreetmap.org/node/12170358103</desc>
+  </wpt>
+  <wpt lat="59.5165614" lon="18.3439399">
+    <name>Domarudden</name>
+    <desc>https://www.openstreetmap.org/node/12176953770</desc>
+  </wpt>
+  <wpt lat="60.7051927" lon="17.1554453">
+    <name>Strömsbrobadet</name>
+    <desc>https://www.openstreetmap.org/node/12182816901</desc>
+  </wpt>
+  <wpt lat="57.6854774" lon="12.2002391">
+    <name>Pålens badplats</name>
+    <desc>https://www.openstreetmap.org/node/12183967042</desc>
+  </wpt>
+  <wpt lat="59.2856442" lon="17.7611574">
+    <name>node_12211149874</name>
+    <desc>https://www.openstreetmap.org/node/12211149874</desc>
+  </wpt>
+  <wpt lat="57.6820543" lon="12.2018635">
+    <name>Sjöholmens badplats</name>
+    <desc>https://www.openstreetmap.org/node/12211680250</desc>
+  </wpt>
+  <wpt lat="59.2725357" lon="17.9592676">
+    <name>node_12215157092</name>
+    <desc>https://www.openstreetmap.org/node/12215157092</desc>
+  </wpt>
+  <wpt lat="63.1730752" lon="17.2759527">
+    <name>Risöbadet</name>
+    <desc>https://www.openstreetmap.org/node/12272795399</desc>
+  </wpt>
+  <wpt lat="58.3782957" lon="15.7077052">
+    <name>node_12349001470</name>
+    <desc>https://www.openstreetmap.org/node/12349001470</desc>
+  </wpt>
+  <wpt lat="60.1955802" lon="17.9135540">
+    <name>Simbadet</name>
+    <desc>https://www.openstreetmap.org/node/12641284419</desc>
+  </wpt>
+  <wpt lat="59.7441913" lon="18.3677182">
+    <name>Rimbo badhus</name>
+    <desc>https://www.openstreetmap.org/node/12995952301</desc>
+  </wpt>
+  <wpt lat="57.0160334" lon="16.4958866">
+    <name>Oknösström Badplats</name>
+    <desc>https://www.openstreetmap.org/node/13048294501</desc>
+  </wpt>
+  <wpt lat="57.2788396" lon="16.4757559">
+    <name>Badplats Havslätt</name>
+    <desc>https://www.openstreetmap.org/node/13048303703</desc>
+  </wpt>
+  <wpt lat="58.8703129" lon="11.1413598">
+    <name>node_13049624006</name>
+    <desc>https://www.openstreetmap.org/node/13049624006</desc>
+  </wpt>
+  <wpt lat="59.9205117" lon="18.9130888">
+    <name>node_13063334401</name>
+    <desc>https://www.openstreetmap.org/node/13063334401</desc>
+  </wpt>
+  <wpt lat="57.6303365" lon="11.8780397">
+    <name>Ganlet badplats</name>
+    <desc>https://www.openstreetmap.org/node/13069483101</desc>
+  </wpt>
+  <wpt lat="58.1112513" lon="12.9168068">
+    <name>node_13119037701</name>
+    <desc>https://www.openstreetmap.org/node/13119037701</desc>
+  </wpt>
+  <wpt lat="65.0548319" lon="20.0448596">
+    <name>Jörns Bad och Sport</name>
+    <desc>https://www.openstreetmap.org/node/13355594094</desc>
+  </wpt>
+  <wpt lat="60.6705047" lon="16.8177138">
+    <name>Vinterbad i Dammsjön</name>
+    <desc>https://www.openstreetmap.org/node/13457229231</desc>
+  </wpt>
+  <wpt lat="62.0989051" lon="16.7320469">
+    <name>Hssselabadet</name>
+    <desc>https://www.openstreetmap.org/node/13705749527</desc>
+  </wpt>
+  <wpt lat="66.3863502" lon="23.6499406">
+    <name>Polar-Badet</name>
+    <desc>https://www.openstreetmap.org/node/13737530444</desc>
+  </wpt>
+  <wpt lat="59.3780677" lon="18.0671336">
+    <name>Täcka uddens badplats</name>
+    <desc>https://www.openstreetmap.org/node/13847147841</desc>
+  </wpt>
+  <wpt lat="58.7115398" lon="15.8186590">
+    <name>Gronbadet</name>
+    <desc>https://www.openstreetmap.org/node/13955718501</desc>
+  </wpt>
+  <wpt lat="59.0665017" lon="18.2291119">
+    <name>Oxnö Klippbad</name>
+    <desc>https://www.openstreetmap.org/node/13969478602</desc>
+  </wpt>
+  <wpt lat="59.4057464" lon="17.7631498">
+    <name>Sandviksbadet</name>
+    <desc>https://www.openstreetmap.org/node/13969478603</desc>
+  </wpt>
+  <wpt lat="59.3162097" lon="17.9526510">
+    <name>Ålstenängens strand</name>
+    <desc>https://www.openstreetmap.org/node/13969478604</desc>
+  </wpt>
+  <wpt lat="59.2589907" lon="17.8475786">
+    <name>Slagstabadet</name>
+    <desc>https://www.openstreetmap.org/node/13969478701</desc>
+  </wpt>
+  <wpt lat="59.4346785" lon="17.7767470">
+    <name>Brukets friluftsbad</name>
+    <desc>https://www.openstreetmap.org/node/13969478702</desc>
+  </wpt>
+  <wpt lat="59.4391735" lon="17.7848429">
+    <name>Badberget - Löjtnantsklippan</name>
+    <desc>https://www.openstreetmap.org/node/13969478703</desc>
+  </wpt>
+  <wpt lat="59.0663323" lon="18.2283605">
+    <name>Oxnö Havsbad</name>
+    <desc>https://www.openstreetmap.org/node/13969478801</desc>
+  </wpt>
+  <wpt lat="62.5885429" lon="16.6930334">
+    <name>Bellhällarna</name>
+    <desc>https://www.openstreetmap.org/node/13970268101</desc>
+  </wpt>
+  <wpt lat="60.0915812" lon="13.5450123">
+    <name>Sönnertjärnen</name>
+    <desc>https://www.openstreetmap.org/node/13973746101</desc>
+  </wpt>
+  <wpt lat="59.9773005" lon="14.5500670">
+    <name>Lilla Hawai</name>
+    <desc>https://www.openstreetmap.org/node/13988384301</desc>
+  </wpt>
+  <wpt lat="56.9196431" lon="14.4465164">
+    <name>Los-badet</name>
+    <desc>https://www.openstreetmap.org/node/14000257201</desc>
+  </wpt>
+  <wpt lat="59.1430310" lon="16.1272238">
+    <name>Aspenbadet</name>
+    <desc>https://www.openstreetmap.org/node/14002417001</desc>
+  </wpt>
+  <wpt lat="57.7180042" lon="12.9395207">
+    <name>Stadsparksbadet</name>
+  </wpt>
+  <wpt lat="59.5524085" lon="17.5538823">
+    <name>Kalmarsandsbadet</name>
+  </wpt>
+  <wpt lat="59.3437627" lon="18.0959394">
+    <name>Tessinparkens plaskdamm</name>
+  </wpt>
+  <wpt lat="59.8323615" lon="17.9113872">
+    <name>Fjällnora Badplats</name>
+  </wpt>
+  <wpt lat="59.8304053" lon="17.9137143">
+    <name>Fjällnora Naturistbad (Nakenbad)</name>
+  </wpt>
+  <wpt lat="59.9489020" lon="17.5413567">
+    <name>Bälingebadet</name>
+  </wpt>
+  <wpt lat="62.3737561" lon="17.3532370">
+    <name>Kubenbadet</name>
+  </wpt>
+  <wpt lat="57.7124025" lon="12.7910287">
+    <name>Sandaredsbadet</name>
+  </wpt>
+  <wpt lat="57.6713374" lon="12.5268373">
+    <name>Ballsjöns badplats</name>
+  </wpt>
+  <wpt lat="57.4984786" lon="12.6667710">
+    <name>Badhuset Kaskad</name>
+  </wpt>
+  <wpt lat="60.0243633" lon="17.8158628">
+    <name>Lafsenbadet</name>
+  </wpt>
+  <wpt lat="64.6228421" lon="21.2037951">
+    <name>Bureå simhall</name>
+  </wpt>
+  <wpt lat="58.1084281" lon="11.3656631">
+    <name>Varmbadhuset</name>
+  </wpt>
+  <wpt lat="58.9379588" lon="11.1705732">
+    <name>Strömstad Badanstalt</name>
+  </wpt>
+  <wpt lat="59.6052801" lon="17.5101418">
+    <name>Ekillabadet</name>
+  </wpt>
+  <wpt lat="59.1050674" lon="16.7865919">
+    <name>Talavid</name>
+  </wpt>
+  <wpt lat="55.6050476" lon="12.9657201">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="55.6051483" lon="12.9654521">
+    <name>Ribersborgs Kallbadhus</name>
+  </wpt>
+  <wpt lat="55.6049424" lon="12.9654931">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="58.3339382" lon="11.9112829">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.6900131" lon="15.1152691">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.7015927" lon="15.1132116">
+    <name>Sandkilen</name>
+  </wpt>
+  <wpt lat="56.6493525" lon="16.4615638">
+    <name>Färjestadens hamns badplats</name>
+  </wpt>
+  <wpt lat="57.9506921" lon="19.2534630">
+    <name>Sudersand</name>
+  </wpt>
+  <wpt lat="56.6257471" lon="15.1975501">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.3331610" lon="18.3024468">
+    <name>Badplats Eriksvik</name>
+  </wpt>
+  <wpt lat="58.4049025" lon="13.8221298">
+    <name>Billingebadet</name>
+  </wpt>
+  <wpt lat="59.4191078" lon="17.8243936">
+    <name>Järfällabadet</name>
+  </wpt>
+  <wpt lat="58.9140650" lon="15.0542383">
+    <name>Rönneshytta badplats</name>
+  </wpt>
+  <wpt lat="56.4366950" lon="12.8393243">
+    <name>Båstad kallbadhus</name>
+  </wpt>
+  <wpt lat="64.2731260" lon="15.7721542">
+    <name>Sågvika</name>
+  </wpt>
+  <wpt lat="59.3002751" lon="18.2548277">
+    <name>Lännerstabadet</name>
+  </wpt>
+  <wpt lat="60.5053005" lon="14.2291522">
+    <name>Plasket</name>
+  </wpt>
+  <wpt lat="61.7973080" lon="16.1629216">
+    <name>Hybosjön</name>
+  </wpt>
+  <wpt lat="62.5529011" lon="17.8658711">
+    <name>Vitsanden</name>
+  </wpt>
+  <wpt lat="59.2671207" lon="18.1716854">
+    <name>Harrholmen</name>
+  </wpt>
+  <wpt lat="62.9955379" lon="15.1376886">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="62.9949259" lon="15.1395400">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.5911346" lon="18.5537288">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.2623586" lon="18.3510720">
+    <name>Älgöbadet</name>
+  </wpt>
+  <wpt lat="60.7338874" lon="17.1052534">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="62.4158854" lon="16.5709564">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="60.6657011" lon="17.0653286">
+    <name>Gävleån</name>
+  </wpt>
+  <wpt lat="59.2621876" lon="17.2539570">
+    <name>Mariefreds Strandbad</name>
+  </wpt>
+  <wpt lat="60.0594002" lon="18.3167963">
+    <name>Vällenbadet</name>
+  </wpt>
+  <wpt lat="59.9765595" lon="17.1593994">
+    <name>Siggeforabadet</name>
+  </wpt>
+  <wpt lat="59.4043743" lon="18.0211168">
+    <name>Kvarnparksbadet</name>
+  </wpt>
+  <wpt lat="59.4036371" lon="17.6229853">
+    <name>Kungsberga badplats</name>
+  </wpt>
+  <wpt lat="59.0506627" lon="18.0579962">
+    <name>Östra nora havsbad</name>
+  </wpt>
+  <wpt lat="56.1221868" lon="15.6144549">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="56.1841401" lon="15.6506774">
+    <name>Ringö Badplats</name>
+  </wpt>
+  <wpt lat="56.1829018" lon="15.5393248">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="56.1608722" lon="14.8775212">
+    <name>Karlshamns Kallbadhus</name>
+  </wpt>
+  <wpt lat="58.2687681" lon="11.4234485">
+    <name>Pinneviksbadet</name>
+  </wpt>
+  <wpt lat="65.3539738" lon="21.5833774">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="65.4255676" lon="16.2259788">
+    <name>Badplatsen</name>
+  </wpt>
+  <wpt lat="61.3437067" lon="16.0531416">
+    <name>Kvarnsveden</name>
+  </wpt>
+  <wpt lat="60.7184352" lon="15.2837401">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="56.1602336" lon="15.7270483">
+    <name>Trummenäs Havsbad</name>
+  </wpt>
+  <wpt lat="56.2404649" lon="12.8591483">
+    <name>Vattnets Hus</name>
+  </wpt>
+  <wpt lat="60.0682969" lon="18.0793045">
+    <name>Alundabadet</name>
+  </wpt>
+  <wpt lat="56.1099429" lon="13.9115773">
+    <name>Vinslövs Friluftsbad</name>
+  </wpt>
+  <wpt lat="56.0787069" lon="14.2135770">
+    <name>Balsby sjöbad</name>
+  </wpt>
+  <wpt lat="57.5090297" lon="12.6338835">
+    <name>Hedgärdessjön</name>
+  </wpt>
+  <wpt lat="58.7827967" lon="14.9691999">
+    <name>Hargebaden</name>
+  </wpt>
+  <wpt lat="61.2883533" lon="17.2256898">
+    <name>Skatön</name>
+  </wpt>
+  <wpt lat="57.0220355" lon="16.4831422">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.5275893" lon="15.4485060">
+    <name>Rockhammarsbadet</name>
+  </wpt>
+  <wpt lat="59.1271981" lon="15.1552888">
+    <name>Djupadalsbadet</name>
+  </wpt>
+  <wpt lat="58.3128042" lon="16.7141271">
+    <name>Badplats Sandfjärden</name>
+  </wpt>
+  <wpt lat="58.3251192" lon="16.6996616">
+    <name>Badplats Gropviken</name>
+  </wpt>
+  <wpt lat="58.6200241" lon="16.8247298">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="60.0729469" lon="15.9180606">
+    <name>Campingbadet</name>
+  </wpt>
+  <wpt lat="59.3812555" lon="16.7945236">
+    <name>Barva Badplats</name>
+  </wpt>
+  <wpt lat="59.0608484" lon="12.6954787">
+    <name>Åmåls simhall</name>
+  </wpt>
+  <wpt lat="56.2892001" lon="12.4860406">
+    <name>Solviken Bad</name>
+  </wpt>
+  <wpt lat="56.2888331" lon="12.4860024">
+    <name>Nakenbad för damer</name>
+  </wpt>
+  <wpt lat="56.2792023" lon="12.4971696">
+    <name>Fågelviken</name>
+  </wpt>
+  <wpt lat="66.8529917" lon="23.0547038">
+    <name>Korpilombolo utebad</name>
+  </wpt>
+  <wpt lat="59.0002131" lon="12.4608599">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="56.9212805" lon="14.8232498">
+    <name>Badplats Evedal</name>
+  </wpt>
+  <wpt lat="59.8006921" lon="16.1663327">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.8705529" lon="16.0564827">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.5186985" lon="15.0535730">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="60.1180355" lon="15.2623345">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.4364079" lon="15.5781617">
+    <name>Fellingsbrobadet</name>
+  </wpt>
+  <wpt lat="59.1916021" lon="17.7824845">
+    <name>Möllebadet</name>
+  </wpt>
+  <wpt lat="60.0050276" lon="13.1427424">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.4277719" lon="17.7706667">
+    <name>Görvälnsbadet</name>
+  </wpt>
+  <wpt lat="60.3086064" lon="18.6007596">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="57.2265970" lon="16.4848828">
+    <name>Åsvallesund</name>
+  </wpt>
+  <wpt lat="55.5772052" lon="13.2512304">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="57.2358782" lon="16.0274273">
+    <name>Gösjöbadet</name>
+  </wpt>
+  <wpt lat="60.7478103" lon="15.4678128">
+    <name>Lisstjärnen</name>
+  </wpt>
+  <wpt lat="57.6095178" lon="11.8859921">
+    <name>Smithska uddens nakenbad</name>
+  </wpt>
+  <wpt lat="59.5588753" lon="18.2609105">
+    <name>Toftesta Holme</name>
+  </wpt>
+  <wpt lat="59.5138325" lon="18.2679454">
+    <name>Garnvikensbadet</name>
+  </wpt>
+  <wpt lat="59.4366873" lon="17.9678935">
+    <name>Badberget</name>
+  </wpt>
+  <wpt lat="59.1121471" lon="16.0126994">
+    <name>Public Bath</name>
+  </wpt>
+  <wpt lat="59.3882886" lon="18.2867644">
+    <name>Fridhemsbadet</name>
+  </wpt>
+  <wpt lat="59.9585110" lon="16.2078075">
+    <name>Paradisbadet</name>
+  </wpt>
+</gpx>
