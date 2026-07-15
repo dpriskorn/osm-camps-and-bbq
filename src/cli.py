@@ -1,8 +1,12 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent))
+
 import click
 
-from grill_karta.extract import extract_objects, get_pbf_path
-from grill_karta.cluster import cluster_places, get_clusters_info
-from grill_karta.gpx import to_gpx
+from extract import extract_objects, get_pbf_path
+from cluster import cluster_places, get_clusters_info
+from gpx import to_gpx
 
 
 @click.command()

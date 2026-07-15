@@ -9,4 +9,4 @@ uv.lock
 
 # Data and output
 data/
-grillplatser_*.gpx
+output/

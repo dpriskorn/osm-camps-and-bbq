@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-grillsok = "grill_karta.cli:main"
+grillsok = "src.cli:main"
 
 [build-system]
 requires = ["hatchling"]
