@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="wilderness-huts-exporter"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wilderness huts in Sweden</name>
+  </metadata>
+  <wpt lat="61.5887138" lon="12.7286893">
+    <name>Särnmanskojan</name>
+    <desc>https://www.openstreetmap.org/node/304575991</desc>
+  </wpt>
+  <wpt lat="61.5525154" lon="12.7411750">
+    <name>Tangsjöstugan</name>
+    <desc>https://www.openstreetmap.org/node/304575992</desc>
+  </wpt>
+  <wpt lat="69.0529755" lon="20.2541688">
+    <name>Gappohytta</name>
+    <desc>https://www.openstreetmap.org/node/339405682</desc>
+  </wpt>
+  <wpt lat="68.0588072" lon="17.5926033">
+    <name>Skoaddejávre</name>
+    <desc>https://www.openstreetmap.org/node/339409581</desc>
+  </wpt>
+  <wpt lat="68.1005820" lon="17.2347661">
+    <name>Sitashytta</name>
+    <desc>https://www.openstreetmap.org/node/339409582</desc>
+  </wpt>
+  <wpt lat="67.0542970" lon="16.3724255">
+    <name>Muorkihytta</name>
+    <desc>https://www.openstreetmap.org/node/339599366</desc>
+  </wpt>
+  <wpt lat="66.1840932" lon="15.0515441">
+    <name>Kvitsteindalstunet</name>
+    <desc>https://www.openstreetmap.org/node/339602307</desc>
+  </wpt>
+  <wpt lat="61.9843387" lon="12.8747798">
+    <name>Ulandsstugan</name>
+    <desc>https://www.openstreetmap.org/node/359683621</desc>
+  </wpt>
+  <wpt lat="61.9819705" lon="12.8089546">
+    <name>Slagubäckskojan</name>
+    <desc>https://www.openstreetmap.org/node/359715368</desc>
+  </wpt>
+  <wpt lat="61.9251539" lon="12.9174967">
+    <name>Rybäckskojan</name>
+    <desc>https://www.openstreetmap.org/node/360880805</desc>
+  </wpt>
+  <wpt lat="61.5685255" lon="12.6266618">
+    <name>Bergådalsstugan</name>
+    <desc>https://www.openstreetmap.org/node/365991764</desc>
+  </wpt>
+  <wpt lat="62.3487575" lon="12.2439041">
+    <name>Reva</name>
+    <desc>https://www.openstreetmap.org/node/500956105</desc>
+  </wpt>
+  <wpt lat="62.2122793" lon="12.4464153">
+    <name>Slagusjön</name>
+    <desc>https://www.openstreetmap.org/node/501801901</desc>
+  </wpt>
+  <wpt lat="62.1578360" lon="12.3738787">
+    <name>Särsjöbäcken</name>
+    <desc>https://www.openstreetmap.org/node/501819719</desc>
+  </wpt>
+  <wpt lat="62.0319054" lon="13.2287595">
+    <name>Hångtjärnstugan</name>
+    <desc>https://www.openstreetmap.org/node/503143175</desc>
+  </wpt>
+  <wpt lat="61.2248535" lon="13.0466068">
+    <name>Kläppenskjulet</name>
+    <desc>https://www.openstreetmap.org/node/544839313</desc>
+  </wpt>
+  <wpt lat="63.3927074" lon="18.8722205">
+    <name>Torsböle</name>
+    <desc>https://www.openstreetmap.org/node/828940244</desc>
+  </wpt>
+  <wpt lat="65.6801960" lon="14.5932100">
+    <name>Atostugan</name>
+    <desc>https://www.openstreetmap.org/node/923512333</desc>
+  </wpt>
+  <wpt lat="63.8082403" lon="18.3000599">
+    <name>Övernattningsstuga Vändåtberget</name>
+    <desc>https://www.openstreetmap.org/node/963841071</desc>
+  </wpt>
+  <wpt lat="63.1118388" lon="18.5308272">
+    <name>Tärnättsundet</name>
+    <desc>https://www.openstreetmap.org/node/1157614850</desc>
+  </wpt>
+  <wpt lat="63.2068469" lon="18.2291168">
+    <name>Hinnsjöstugan</name>
+    <desc>https://www.openstreetmap.org/node/1179479398</desc>
+  </wpt>
+  <wpt lat="63.1707495" lon="18.2253699">
+    <name>Västanåbodarna</name>
+    <desc>https://www.openstreetmap.org/node/1179583080</desc>
+  </wpt>
+  <wpt lat="63.1625710" lon="18.1995983">
+    <name>Näsbodarna</name>
+    <desc>https://www.openstreetmap.org/node/1179583083</desc>
+  </wpt>
+  <wpt lat="63.1684980" lon="18.1946270">
+    <name>Mjälabodarna</name>
+    <desc>https://www.openstreetmap.org/node/1179583093</desc>
+  </wpt>
+  <wpt lat="63.1733526" lon="18.2655579">
+    <name>Bjästabodarna</name>
+    <desc>https://www.openstreetmap.org/node/1179583113</desc>
+  </wpt>
+  <wpt lat="63.1649895" lon="18.2741359">
+    <name>Skrikestugan</name>
+    <desc>https://www.openstreetmap.org/node/1179583115</desc>
+  </wpt>
+  <wpt lat="63.4439044" lon="13.1334924">
+    <name>node_1201636121</name>
+    <desc>https://www.openstreetmap.org/node/1201636121</desc>
+  </wpt>
+  <wpt lat="62.9140471" lon="18.3672923">
+    <name>Själandsklintens stuga</name>
+    <desc>https://www.openstreetmap.org/node/1262397241</desc>
+  </wpt>
+  <wpt lat="63.8945350" lon="17.8405070">
+    <name>node_1297297590</name>
+    <desc>https://www.openstreetmap.org/node/1297297590</desc>
+  </wpt>
+  <wpt lat="59.0521983" lon="11.7372769">
+    <name>Budalsvika</name>
+    <desc>https://www.openstreetmap.org/node/1356401406</desc>
+  </wpt>
+  <wpt lat="60.1526259" lon="12.5126180">
+    <name>Lebiko</name>
+    <desc>https://www.openstreetmap.org/node/1356402143</desc>
+  </wpt>
+  <wpt lat="59.8896053" lon="12.1691588">
+    <name>Leirsjøhytta</name>
+    <desc>https://www.openstreetmap.org/node/1356402152</desc>
+  </wpt>
+  <wpt lat="67.2325184" lon="16.4776612">
+    <name>STF Sårjåsjaure Fjällstuga</name>
+    <desc>https://www.openstreetmap.org/node/1356403634</desc>
+  </wpt>
+  <wpt lat="60.5602732" lon="12.5633803">
+    <name>Fall</name>
+    <desc>https://www.openstreetmap.org/node/1356457729</desc>
+  </wpt>
+  <wpt lat="60.6413446" lon="12.4903765">
+    <name>Klintkoia</name>
+    <desc>https://www.openstreetmap.org/node/1356458270</desc>
+  </wpt>
+  <wpt lat="66.9052313" lon="16.3833258">
+    <name>Mavas lappland</name>
+    <desc>https://www.openstreetmap.org/node/1356458548</desc>
+  </wpt>
+  <wpt lat="59.0848063" lon="12.4718673">
+    <name>Baljåsen hut</name>
+    <desc>https://www.openstreetmap.org/node/1388722624</desc>
+  </wpt>
+  <wpt lat="62.6086462" lon="15.3298144">
+    <name>node_1612178610</name>
+    <desc>https://www.openstreetmap.org/node/1612178610</desc>
+  </wpt>
+  <wpt lat="66.8449393" lon="17.5892366">
+    <name>Tsielejåkkastuga</name>
+    <desc>https://www.openstreetmap.org/node/1750214495</desc>
+  </wpt>
+  <wpt lat="62.5972598" lon="15.3354773">
+    <name>node_1763578676</name>
+    <desc>https://www.openstreetmap.org/node/1763578676</desc>
+  </wpt>
+  <wpt lat="62.2901017" lon="15.1821023">
+    <name>Klackstugan</name>
+    <desc>https://www.openstreetmap.org/node/1814004454</desc>
+  </wpt>
+  <wpt lat="60.4300517" lon="14.7290335">
+    <name>Kapplakojan</name>
+    <desc>https://www.openstreetmap.org/node/1823195471</desc>
+  </wpt>
+  <wpt lat="63.4974700" lon="18.9389788">
+    <name>node_1829011090</name>
+    <desc>https://www.openstreetmap.org/node/1829011090</desc>
+  </wpt>
+  <wpt lat="62.3397787" lon="17.2927270">
+    <name>Fågelbergsstugan</name>
+    <desc>https://www.openstreetmap.org/node/1854514457</desc>
+  </wpt>
+  <wpt lat="64.9839976" lon="14.7179652">
+    <name>Slipsikstugan</name>
+    <desc>https://www.openstreetmap.org/node/1855802314</desc>
+  </wpt>
+  <wpt lat="64.7323578" lon="14.5318931">
+    <name>Silkentjakkestugan</name>
+    <desc>https://www.openstreetmap.org/node/1899029542</desc>
+  </wpt>
+  <wpt lat="65.9232636" lon="15.9540233">
+    <name>Juovatvaretje rastskydd</name>
+    <desc>https://www.openstreetmap.org/node/1921517038</desc>
+  </wpt>
+  <wpt lat="66.3510396" lon="16.8340520">
+    <name>Pieljekaisestugan</name>
+    <desc>https://www.openstreetmap.org/node/1931961879</desc>
+  </wpt>
+  <wpt lat="65.1751469" lon="15.3669400">
+    <name>Blerikstugan</name>
+    <desc>https://www.openstreetmap.org/node/1934217840</desc>
+  </wpt>
+  <wpt lat="66.3672231" lon="16.9183506">
+    <name>Raststuga Pieljekaise</name>
+    <desc>https://www.openstreetmap.org/node/1967191335</desc>
+  </wpt>
+  <wpt lat="60.4533540" lon="17.5127753">
+    <name>Honolulukojan</name>
+    <desc>https://www.openstreetmap.org/node/1996760232</desc>
+  </wpt>
+  <wpt lat="61.0844478" lon="14.2801924">
+    <name>Prästskogskojan</name>
+    <desc>https://www.openstreetmap.org/node/2154993458</desc>
+  </wpt>
+  <wpt lat="61.1168955" lon="14.0915552">
+    <name>Axikojan</name>
+    <desc>https://www.openstreetmap.org/node/2155010587</desc>
+  </wpt>
+  <wpt lat="61.1178038" lon="13.8803021">
+    <name>Sundetkojorna</name>
+    <desc>https://www.openstreetmap.org/node/2155017907</desc>
+  </wpt>
+  <wpt lat="61.0893376" lon="13.5325281">
+    <name>Skärlokskojan</name>
+    <desc>https://www.openstreetmap.org/node/2155027656</desc>
+  </wpt>
+  <wpt lat="63.0381385" lon="17.2416865">
+    <name>Skoterstuga knäsjötjärn</name>
+    <desc>https://www.openstreetmap.org/node/2198345057</desc>
+  </wpt>
+  <wpt lat="64.2478517" lon="15.4544230">
+    <name>Toppstugan</name>
+    <desc>https://www.openstreetmap.org/node/2221454010</desc>
+  </wpt>
+  <wpt lat="62.0810609" lon="12.3969404">
+    <name>Oskarsstugan</name>
+    <desc>https://www.openstreetmap.org/node/2225654513</desc>
+  </wpt>
+  <wpt lat="60.1773318" lon="16.7696423">
+    <name>Tinäsets Fäbod</name>
+    <desc>https://www.openstreetmap.org/node/2231165955</desc>
+  </wpt>
+  <wpt lat="59.7817262" lon="17.7412519">
+    <name>Fläktanstugan</name>
+    <desc>https://www.openstreetmap.org/node/2231261969</desc>
+  </wpt>
+  <wpt lat="60.4915949" lon="15.3246697">
+    <name>Bjusanstugan</name>
+    <desc>https://www.openstreetmap.org/node/2319254127</desc>
+  </wpt>
+  <wpt lat="58.7212331" lon="11.7067650">
+    <name>node_2501405257</name>
+    <desc>https://www.openstreetmap.org/node/2501405257</desc>
+  </wpt>
+  <wpt lat="62.3587579" lon="17.2977550">
+    <name>Jaktkojan</name>
+    <desc>https://www.openstreetmap.org/node/2619516889</desc>
+  </wpt>
+  <wpt lat="60.3756880" lon="15.7153410">
+    <name>Franssons stugor</name>
+    <desc>https://www.openstreetmap.org/node/2939367243</desc>
+  </wpt>
+  <wpt lat="60.1984115" lon="16.7480773">
+    <name>Göknäset</name>
+    <desc>https://www.openstreetmap.org/node/2960612940</desc>
+  </wpt>
+  <wpt lat="60.2625379" lon="16.8374485">
+    <name>Bengts Stuga</name>
+    <desc>https://www.openstreetmap.org/node/2960631196</desc>
+  </wpt>
+  <wpt lat="60.2528721" lon="16.8886573">
+    <name>Kungsgårdens Fäbod</name>
+    <desc>https://www.openstreetmap.org/node/2960631197</desc>
+  </wpt>
+  <wpt lat="60.1440579" lon="16.7396391">
+    <name>Alderbäcksrör</name>
+    <desc>https://www.openstreetmap.org/node/2960631198</desc>
+  </wpt>
+  <wpt lat="65.1824839" lon="14.5670077">
+    <name>Tjåkkelestugan</name>
+    <desc>https://www.openstreetmap.org/node/2973805193</desc>
+  </wpt>
+  <wpt lat="59.1099786" lon="12.4435706">
+    <name>DANO 100 Mjölkudden-Edslan hut</name>
+    <desc>https://www.openstreetmap.org/node/2976099889</desc>
+  </wpt>
+  <wpt lat="59.6818732" lon="16.4017865">
+    <name>Skålbystugan</name>
+    <desc>https://www.openstreetmap.org/node/3003568775</desc>
+  </wpt>
+  <wpt lat="60.4962003" lon="15.1642715">
+    <name>Lindbuan</name>
+    <desc>https://www.openstreetmap.org/node/3060512690</desc>
+  </wpt>
+  <wpt lat="63.6828675" lon="12.2614124">
+    <name>Bellingstua</name>
+    <desc>https://www.openstreetmap.org/node/3125297665</desc>
+  </wpt>
+  <wpt lat="57.8425817" lon="16.2372587">
+    <name>Undantagsstugan Källstorp</name>
+    <desc>https://www.openstreetmap.org/node/3133426887</desc>
+  </wpt>
+  <wpt lat="66.3178689" lon="21.7545460">
+    <name>Spiken</name>
+    <desc>https://www.openstreetmap.org/node/3355811889</desc>
+  </wpt>
+  <wpt lat="66.4296166" lon="22.5007675">
+    <name>Bönjotta</name>
+    <desc>https://www.openstreetmap.org/node/3367903188</desc>
+  </wpt>
+  <wpt lat="65.5728646" lon="21.8018974">
+    <name>Alvik skoter- & fritidsstuga</name>
+    <desc>https://www.openstreetmap.org/node/3378366880</desc>
+  </wpt>
+  <wpt lat="65.7009810" lon="21.9465007">
+    <name>Sunderbyns Skoterstuga</name>
+    <desc>https://www.openstreetmap.org/node/3378370376</desc>
+  </wpt>
+  <wpt lat="65.5058845" lon="21.8051241">
+    <name>Ersnäs skoterklubbstuga</name>
+    <desc>https://www.openstreetmap.org/node/3378371799</desc>
+  </wpt>
+  <wpt lat="62.0485226" lon="12.2360229">
+    <name>Valdalsbygget Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/3391034768</desc>
+  </wpt>
+  <wpt lat="66.5554623" lon="21.4435552">
+    <name>Polcirkelkojan</name>
+    <desc>https://www.openstreetmap.org/node/3400526754</desc>
+  </wpt>
+  <wpt lat="63.1015083" lon="18.5326274">
+    <name>Näskebodarna</name>
+    <desc>https://www.openstreetmap.org/node/3518280727</desc>
+  </wpt>
+  <wpt lat="60.7299677" lon="17.0361822">
+    <name>Vackerhed</name>
+    <desc>https://www.openstreetmap.org/node/3634665018</desc>
+  </wpt>
+  <wpt lat="65.2429381" lon="17.6726036">
+    <name>node_3670797280</name>
+    <desc>https://www.openstreetmap.org/node/3670797280</desc>
+  </wpt>
+  <wpt lat="59.9385732" lon="15.3906312">
+    <name>Bratenskojan</name>
+    <desc>https://www.openstreetmap.org/node/3726597871</desc>
+  </wpt>
+  <wpt lat="59.9243233" lon="15.3187448">
+    <name>node_3726597879</name>
+    <desc>https://www.openstreetmap.org/node/3726597879</desc>
+  </wpt>
+  <wpt lat="68.4690718" lon="18.8256102">
+    <name>Snurijåkkåtan</name>
+    <desc>https://www.openstreetmap.org/node/3734899336</desc>
+  </wpt>
+  <wpt lat="60.4484405" lon="13.3415409">
+    <name>Fänstjärn Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/3751903786</desc>
+  </wpt>
+  <wpt lat="56.2502462" lon="14.2824839">
+    <name>node_3755859571</name>
+    <desc>https://www.openstreetmap.org/node/3755859571</desc>
+  </wpt>
+  <wpt lat="61.9712158" lon="16.6867322">
+    <name>node_4017525886</name>
+    <desc>https://www.openstreetmap.org/node/4017525886</desc>
+  </wpt>
+  <wpt lat="59.6149519" lon="12.6364088">
+    <name>node_4032666595</name>
+    <desc>https://www.openstreetmap.org/node/4032666595</desc>
+  </wpt>
+  <wpt lat="61.8918394" lon="13.3128561">
+    <name>Vedungsstugan</name>
+    <desc>https://www.openstreetmap.org/node/4057029024</desc>
+  </wpt>
+  <wpt lat="63.4674512" lon="17.1469009">
+    <name>Nävernäsan</name>
+    <desc>https://www.openstreetmap.org/node/4067924385</desc>
+  </wpt>
+  <wpt lat="58.7122369" lon="16.2008989">
+    <name>node_4070517913</name>
+    <desc>https://www.openstreetmap.org/node/4070517913</desc>
+  </wpt>
+  <wpt lat="62.1856890" lon="12.3911480">
+    <name>Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/4077358390</desc>
+  </wpt>
+  <wpt lat="63.1111181" lon="18.5441641">
+    <name>node_4182133397</name>
+    <desc>https://www.openstreetmap.org/node/4182133397</desc>
+  </wpt>
+  <wpt lat="63.2566300" lon="18.6369542">
+    <name>Småtjärns stugan</name>
+    <desc>https://www.openstreetmap.org/node/4183440194</desc>
+  </wpt>
+  <wpt lat="63.1241597" lon="18.4448826">
+    <name>Lillrutenstugan</name>
+    <desc>https://www.openstreetmap.org/node/4198351292</desc>
+  </wpt>
+  <wpt lat="63.9750519" lon="18.0405860">
+    <name>Angsjökojan</name>
+    <desc>https://www.openstreetmap.org/node/4200603781</desc>
+  </wpt>
+  <wpt lat="63.8233417" lon="19.9044216">
+    <name>node_4257814706</name>
+    <desc>https://www.openstreetmap.org/node/4257814706</desc>
+  </wpt>
+  <wpt lat="65.6833958" lon="21.0540445">
+    <name>node_4318850067</name>
+    <desc>https://www.openstreetmap.org/node/4318850067</desc>
+  </wpt>
+  <wpt lat="63.8464200" lon="15.5370502">
+    <name>node_4332885016</name>
+    <desc>https://www.openstreetmap.org/node/4332885016</desc>
+  </wpt>
+  <wpt lat="58.8414993" lon="12.4263999">
+    <name>Livarebosjön Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/4394890598</desc>
+  </wpt>
+  <wpt lat="67.9130833" lon="20.5633143">
+    <name>Wilderness Camp Väkäräjärvi</name>
+    <desc>https://www.openstreetmap.org/node/4469550719</desc>
+  </wpt>
+  <wpt lat="64.0695254" lon="20.4317448">
+    <name>node_4600670218</name>
+    <desc>https://www.openstreetmap.org/node/4600670218</desc>
+  </wpt>
+  <wpt lat="64.4041911" lon="19.4651473">
+    <name>Missutjärn</name>
+    <desc>https://www.openstreetmap.org/node/4622446540</desc>
+  </wpt>
+  <wpt lat="60.1092538" lon="15.1362940">
+    <name>Sausstugan</name>
+    <desc>https://www.openstreetmap.org/node/4696077874</desc>
+  </wpt>
+  <wpt lat="63.3411968" lon="18.2740579">
+    <name>Skaltoberget</name>
+    <desc>https://www.openstreetmap.org/node/4746879973</desc>
+  </wpt>
+  <wpt lat="58.7355692" lon="16.2990247">
+    <name>node_4809656964</name>
+    <desc>https://www.openstreetmap.org/node/4809656964</desc>
+  </wpt>
+  <wpt lat="63.1835223" lon="18.6986400">
+    <name>Bodviken</name>
+    <desc>https://www.openstreetmap.org/node/4897669966</desc>
+  </wpt>
+  <wpt lat="62.0917358" lon="12.2663532">
+    <name>Olåns Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/4986921289</desc>
+  </wpt>
+  <wpt lat="59.0526865" lon="12.5766206">
+    <name>Bergstjärnet Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/5015577119</desc>
+  </wpt>
+  <wpt lat="68.3724954" lon="18.5435804">
+    <name>Kåppatjåkka</name>
+    <desc>https://www.openstreetmap.org/node/5031900436</desc>
+  </wpt>
+  <wpt lat="62.1211655" lon="12.6009321">
+    <name>node_5111300712</name>
+    <desc>https://www.openstreetmap.org/node/5111300712</desc>
+  </wpt>
+  <wpt lat="63.9838445" lon="17.9855499">
+    <name>Svärmorskojan</name>
+    <desc>https://www.openstreetmap.org/node/5305484794</desc>
+  </wpt>
+  <wpt lat="60.9828230" lon="16.2209520">
+    <name>Svedeastugan</name>
+    <desc>https://www.openstreetmap.org/node/5486642045</desc>
+  </wpt>
+  <wpt lat="66.7006108" lon="23.7039298">
+    <name>Rolf-stugan</name>
+    <desc>https://www.openstreetmap.org/node/5503670522</desc>
+  </wpt>
+  <wpt lat="66.4127903" lon="21.2284825">
+    <name>Pakkokojan</name>
+    <desc>https://www.openstreetmap.org/node/5540140004</desc>
+  </wpt>
+  <wpt lat="66.3804106" lon="21.2880338">
+    <name>Järnhedskojan</name>
+    <desc>https://www.openstreetmap.org/node/5540195988</desc>
+  </wpt>
+  <wpt lat="66.4460569" lon="21.1829180">
+    <name>Snasko</name>
+    <desc>https://www.openstreetmap.org/node/5540195989</desc>
+  </wpt>
+  <wpt lat="66.4793814" lon="21.1470607">
+    <name>Storkroken</name>
+    <desc>https://www.openstreetmap.org/node/5540213499</desc>
+  </wpt>
+  <wpt lat="58.0162411" lon="16.1829687">
+    <name>Björndalen</name>
+    <desc>https://www.openstreetmap.org/node/5768072056</desc>
+  </wpt>
+  <wpt lat="63.0250560" lon="18.2262439">
+    <name>Mäjabodarna</name>
+    <desc>https://www.openstreetmap.org/node/5812602392</desc>
+  </wpt>
+  <wpt lat="67.9713639" lon="18.6625052">
+    <name>Kaskavagge shelter</name>
+    <desc>https://www.openstreetmap.org/node/5818165316</desc>
+  </wpt>
+  <wpt lat="62.7932579" lon="18.1015687">
+    <name>Valkallen Toppstugan</name>
+    <desc>https://www.openstreetmap.org/node/5859294990</desc>
+  </wpt>
+  <wpt lat="62.9796840" lon="18.2193272">
+    <name>Eriks stugan</name>
+    <desc>https://www.openstreetmap.org/node/5859332805</desc>
+  </wpt>
+  <wpt lat="62.8542168" lon="18.1573391">
+    <name>Nipstugan</name>
+    <desc>https://www.openstreetmap.org/node/5859334675</desc>
+  </wpt>
+  <wpt lat="63.2522792" lon="18.6315422">
+    <name>Haffestuga</name>
+    <desc>https://www.openstreetmap.org/node/5859424197</desc>
+  </wpt>
+  <wpt lat="60.4128235" lon="14.8174660">
+    <name>node_5882915452</name>
+    <desc>https://www.openstreetmap.org/node/5882915452</desc>
+  </wpt>
+  <wpt lat="60.3877564" lon="14.8113452">
+    <name>Salåkojan</name>
+    <desc>https://www.openstreetmap.org/node/5882915453</desc>
+  </wpt>
+  <wpt lat="63.7912819" lon="17.9124106">
+    <name>Sjul-Perssons kåta</name>
+    <desc>https://www.openstreetmap.org/node/5885984851</desc>
+  </wpt>
+  <wpt lat="63.2251687" lon="18.7159167">
+    <name>Fjälludden</name>
+    <desc>https://www.openstreetmap.org/node/6246900045</desc>
+  </wpt>
+  <wpt lat="65.2533083" lon="14.9319779">
+    <name>Ljusliden</name>
+    <desc>https://www.openstreetmap.org/node/6342902875</desc>
+  </wpt>
+  <wpt lat="65.2175007" lon="14.7338630">
+    <name>Skiblekojan</name>
+    <desc>https://www.openstreetmap.org/node/6342902877</desc>
+  </wpt>
+  <wpt lat="65.3059414" lon="14.6070472">
+    <name>Åtnikstugan</name>
+    <desc>https://www.openstreetmap.org/node/6342986487</desc>
+  </wpt>
+  <wpt lat="66.1043101" lon="15.5535078">
+    <name>Framakkåtan</name>
+    <desc>https://www.openstreetmap.org/node/6445011686</desc>
+  </wpt>
+  <wpt lat="63.4954501" lon="18.9308613">
+    <name>node_6652934906</name>
+    <desc>https://www.openstreetmap.org/node/6652934906</desc>
+  </wpt>
+  <wpt lat="60.4940742" lon="14.6891809">
+    <name>Kolarkoja</name>
+    <desc>https://www.openstreetmap.org/node/6690880352</desc>
+  </wpt>
+  <wpt lat="59.9527908" lon="15.3959698">
+    <name>Lilla Haraldstorpskojan</name>
+    <desc>https://www.openstreetmap.org/node/6700505385</desc>
+  </wpt>
+  <wpt lat="64.5754855" lon="13.6708019">
+    <name>Portfjällsstuga</name>
+    <desc>https://www.openstreetmap.org/node/6718840966</desc>
+  </wpt>
+  <wpt lat="60.9292074" lon="16.0211067">
+    <name>node_6810157008</name>
+    <desc>https://www.openstreetmap.org/node/6810157008</desc>
+  </wpt>
+  <wpt lat="66.9659555" lon="20.7519352">
+    <name>Tjäderkojan</name>
+    <desc>https://www.openstreetmap.org/node/6827024985</desc>
+  </wpt>
+  <wpt lat="67.8105613" lon="21.6124709">
+    <name>Kojan</name>
+    <desc>https://www.openstreetmap.org/node/6832597986</desc>
+  </wpt>
+  <wpt lat="68.2663718" lon="22.0094753">
+    <name>Kojan</name>
+    <desc>https://www.openstreetmap.org/node/6833019785</desc>
+  </wpt>
+  <wpt lat="63.7042385" lon="17.7638502">
+    <name>Lillsjön</name>
+    <desc>https://www.openstreetmap.org/node/6852422016</desc>
+  </wpt>
+  <wpt lat="62.3473079" lon="13.3054560">
+    <name>node_6858616258</name>
+    <desc>https://www.openstreetmap.org/node/6858616258</desc>
+  </wpt>
+  <wpt lat="63.9294026" lon="18.8681396">
+    <name>node_6879757535</name>
+    <desc>https://www.openstreetmap.org/node/6879757535</desc>
+  </wpt>
+  <wpt lat="63.7965360" lon="17.6314419">
+    <name>node_6920282142</name>
+    <desc>https://www.openstreetmap.org/node/6920282142</desc>
+  </wpt>
+  <wpt lat="63.7820405" lon="17.7171492">
+    <name>Byxsjön</name>
+    <desc>https://www.openstreetmap.org/node/6954566454</desc>
+  </wpt>
+  <wpt lat="63.7674474" lon="17.5829315">
+    <name>node_6954566456</name>
+    <desc>https://www.openstreetmap.org/node/6954566456</desc>
+  </wpt>
+  <wpt lat="63.8282992" lon="17.6367717">
+    <name>node_6954566464</name>
+    <desc>https://www.openstreetmap.org/node/6954566464</desc>
+  </wpt>
+  <wpt lat="63.8399117" lon="17.6839542">
+    <name>node_6954566467</name>
+    <desc>https://www.openstreetmap.org/node/6954566467</desc>
+  </wpt>
+  <wpt lat="63.7999799" lon="17.8198242">
+    <name>Kolarkojan</name>
+    <desc>https://www.openstreetmap.org/node/6954566469</desc>
+  </wpt>
+  <wpt lat="63.8142674" lon="17.8474510">
+    <name>node_6954566478</name>
+    <desc>https://www.openstreetmap.org/node/6954566478</desc>
+  </wpt>
+  <wpt lat="63.7800971" lon="17.9807567">
+    <name>node_6954566482</name>
+    <desc>https://www.openstreetmap.org/node/6954566482</desc>
+  </wpt>
+  <wpt lat="63.7882964" lon="17.9250955">
+    <name>node_6954883787</name>
+    <desc>https://www.openstreetmap.org/node/6954883787</desc>
+  </wpt>
+  <wpt lat="63.7892536" lon="17.9114699">
+    <name>node_6954883815</name>
+    <desc>https://www.openstreetmap.org/node/6954883815</desc>
+  </wpt>
+  <wpt lat="63.8609907" lon="17.8766012">
+    <name>Bränntjärnskojan</name>
+    <desc>https://www.openstreetmap.org/node/6954883821</desc>
+  </wpt>
+  <wpt lat="63.6123670" lon="17.8896475">
+    <name>node_6956851860</name>
+    <desc>https://www.openstreetmap.org/node/6956851860</desc>
+  </wpt>
+  <wpt lat="63.6812146" lon="17.7923369">
+    <name>node_6956857761</name>
+    <desc>https://www.openstreetmap.org/node/6956857761</desc>
+  </wpt>
+  <wpt lat="63.7073744" lon="17.6460385">
+    <name>Rävelmyrskojan</name>
+    <desc>https://www.openstreetmap.org/node/6956857771</desc>
+  </wpt>
+  <wpt lat="63.6907742" lon="17.6175213">
+    <name>Kvisslastugan</name>
+    <desc>https://www.openstreetmap.org/node/6956857772</desc>
+  </wpt>
+  <wpt lat="63.7023459" lon="17.7727460">
+    <name>node_6956857775</name>
+    <desc>https://www.openstreetmap.org/node/6956857775</desc>
+  </wpt>
+  <wpt lat="63.4720233" lon="17.7885818">
+    <name>node_6959837242</name>
+    <desc>https://www.openstreetmap.org/node/6959837242</desc>
+  </wpt>
+  <wpt lat="63.4767381" lon="17.7696132">
+    <name>node_6959837246</name>
+    <desc>https://www.openstreetmap.org/node/6959837246</desc>
+  </wpt>
+  <wpt lat="63.5022919" lon="17.8478049">
+    <name>node_6959837250</name>
+    <desc>https://www.openstreetmap.org/node/6959837250</desc>
+  </wpt>
+  <wpt lat="63.3692932" lon="17.9526042">
+    <name>node_6959952336</name>
+    <desc>https://www.openstreetmap.org/node/6959952336</desc>
+  </wpt>
+  <wpt lat="63.5468126" lon="17.5099754">
+    <name>node_6961477027</name>
+    <desc>https://www.openstreetmap.org/node/6961477027</desc>
+  </wpt>
+  <wpt lat="63.4679211" lon="17.5193739">
+    <name>Låsjöstugan</name>
+    <desc>https://www.openstreetmap.org/node/6961477574</desc>
+  </wpt>
+  <wpt lat="63.6339189" lon="18.4452188">
+    <name>Rödmyrsstugan</name>
+    <desc>https://www.openstreetmap.org/node/6964145111</desc>
+  </wpt>
+  <wpt lat="63.6595915" lon="18.2770657">
+    <name>node_6964881981</name>
+    <desc>https://www.openstreetmap.org/node/6964881981</desc>
+  </wpt>
+  <wpt lat="63.4360808" lon="18.4952903">
+    <name>Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/6965754495</desc>
+  </wpt>
+  <wpt lat="63.6118997" lon="18.3317184">
+    <name>node_6983607490</name>
+    <desc>https://www.openstreetmap.org/node/6983607490</desc>
+  </wpt>
+  <wpt lat="63.4426915" lon="18.6581754">
+    <name>Lidböle fäbodar</name>
+    <desc>https://www.openstreetmap.org/node/6991003520</desc>
+  </wpt>
+  <wpt lat="63.3423594" lon="18.0702996">
+    <name>Mellanstugan</name>
+    <desc>https://www.openstreetmap.org/node/6993517845</desc>
+  </wpt>
+  <wpt lat="63.3259934" lon="18.1453907">
+    <name>Storbäcken</name>
+    <desc>https://www.openstreetmap.org/node/6993517850</desc>
+  </wpt>
+  <wpt lat="63.3635410" lon="17.9774952">
+    <name>Erikstorp</name>
+    <desc>https://www.openstreetmap.org/node/6993517856</desc>
+  </wpt>
+  <wpt lat="63.6845513" lon="18.4557599">
+    <name>Kolidenstugan</name>
+    <desc>https://www.openstreetmap.org/node/7003326484</desc>
+  </wpt>
+  <wpt lat="63.7098646" lon="18.8259744">
+    <name>Hemlidenstugan</name>
+    <desc>https://www.openstreetmap.org/node/7003348794</desc>
+  </wpt>
+  <wpt lat="63.7147112" lon="18.7372255">
+    <name>Djuptjärnsbackens toppstuga</name>
+    <desc>https://www.openstreetmap.org/node/7003348826</desc>
+  </wpt>
+  <wpt lat="63.6522357" lon="18.8299227">
+    <name>Långvattensfäbodarna</name>
+    <desc>https://www.openstreetmap.org/node/7003690862</desc>
+  </wpt>
+  <wpt lat="63.6349218" lon="18.9379406">
+    <name>Sör-Karlsvattnet</name>
+    <desc>https://www.openstreetmap.org/node/7013631586</desc>
+  </wpt>
+  <wpt lat="63.1847079" lon="18.1873083">
+    <name>Väster-Selsbodarna</name>
+    <desc>https://www.openstreetmap.org/node/7016428936</desc>
+  </wpt>
+  <wpt lat="63.1839995" lon="18.2968779">
+    <name>Viksbodarna</name>
+    <desc>https://www.openstreetmap.org/node/7016428937</desc>
+  </wpt>
+  <wpt lat="63.1819950" lon="18.2703388">
+    <name>Kornsjöbodarna</name>
+    <desc>https://www.openstreetmap.org/node/7016428939</desc>
+  </wpt>
+  <wpt lat="63.5487816" lon="18.6407089">
+    <name>Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7023287549</desc>
+  </wpt>
+  <wpt lat="63.7600781" lon="18.5743376">
+    <name>Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7024189871</desc>
+  </wpt>
+  <wpt lat="63.8518574" lon="17.3847484">
+    <name>Dammvaktarkoja</name>
+    <desc>https://www.openstreetmap.org/node/7084617534</desc>
+  </wpt>
+  <wpt lat="65.3831054" lon="20.7579266">
+    <name>Svartlidenstugan. Piteå Snöskoterklubb.</name>
+    <desc>https://www.openstreetmap.org/node/7099579508</desc>
+  </wpt>
+  <wpt lat="61.9303764" lon="17.2168019">
+    <name>node_7108595232</name>
+    <desc>https://www.openstreetmap.org/node/7108595232</desc>
+  </wpt>
+  <wpt lat="66.5591390" lon="19.2828330">
+    <name>Vuojatstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225400</desc>
+  </wpt>
+  <wpt lat="57.4445647" lon="13.9048934">
+    <name>Vildmarksbyn Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225401</desc>
+  </wpt>
+  <wpt lat="55.7232824" lon="14.0595496">
+    <name>Vantalängan</name>
+    <desc>https://www.openstreetmap.org/node/7125225402</desc>
+  </wpt>
+  <wpt lat="60.3507300" lon="15.0044680">
+    <name>Tanstjärnen Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225406</desc>
+  </wpt>
+  <wpt lat="65.3094000" lon="18.4353590">
+    <name>Tallbergskojan</name>
+    <desc>https://www.openstreetmap.org/node/7125225407</desc>
+  </wpt>
+  <wpt lat="60.5950805" lon="14.7465062">
+    <name>Sången stugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225408</desc>
+  </wpt>
+  <wpt lat="60.6032505" lon="17.9897522">
+    <name>Sälstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225409</desc>
+  </wpt>
+  <wpt lat="57.3169260" lon="13.9721430">
+    <name>Svänö Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225410</desc>
+  </wpt>
+  <wpt lat="59.2395600" lon="14.6540700">
+    <name>Svinsjöstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225411</desc>
+  </wpt>
+  <wpt lat="63.3242778" lon="18.1454444">
+    <name>Storbäcken Övernattningsstuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225412</desc>
+  </wpt>
+  <wpt lat="60.0069489" lon="15.3016323">
+    <name>Spannsjöstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225413</desc>
+  </wpt>
+  <wpt lat="60.1186037" lon="14.4201618">
+    <name>Solberget Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225414</desc>
+  </wpt>
+  <wpt lat="60.6670380" lon="12.5733190">
+    <name>Scråckarberget Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225416</desc>
+  </wpt>
+  <wpt lat="60.3820000" lon="17.8642000">
+    <name>Risön Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225417</desc>
+  </wpt>
+  <wpt lat="58.6574350" lon="16.7330900">
+    <name>Nävsjön Kolarkoja</name>
+    <desc>https://www.openstreetmap.org/node/7125225418</desc>
+  </wpt>
+  <wpt lat="61.1615320" lon="14.3767255">
+    <name>Nybron Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225419</desc>
+  </wpt>
+  <wpt lat="60.7201090" lon="12.4327040">
+    <name>Norro Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225420</desc>
+  </wpt>
+  <wpt lat="60.7990450" lon="12.4034050">
+    <name>Nolbyholen Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225421</desc>
+  </wpt>
+  <wpt lat="61.7248395" lon="16.1606962">
+    <name>Myrängen rastplats</name>
+    <desc>https://www.openstreetmap.org/node/7125225422</desc>
+  </wpt>
+  <wpt lat="57.6394049" lon="15.7006900">
+    <name>Mossebo Statarlänga</name>
+    <desc>https://www.openstreetmap.org/node/7125225423</desc>
+  </wpt>
+  <wpt lat="57.2623404" lon="13.8787426">
+    <name>Lövö Värmestuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225424</desc>
+  </wpt>
+  <wpt lat="60.3700000" lon="15.0640000">
+    <name>Långmyra Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225425</desc>
+  </wpt>
+  <wpt lat="59.0367546" lon="12.2537551">
+    <name>Lysetjärn Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225426</desc>
+  </wpt>
+  <wpt lat="59.0929600" lon="14.0693000">
+    <name>Linsöstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225428</desc>
+  </wpt>
+  <wpt lat="59.9437841" lon="15.6930954">
+    <name>Lindbostugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225429</desc>
+  </wpt>
+  <wpt lat="59.9302826" lon="12.5962131">
+    <name>Lafallshöjden Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225432</desc>
+  </wpt>
+  <wpt lat="63.1773134" lon="18.5754131">
+    <name>Köpmanholmens hamn stuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225433</desc>
+  </wpt>
+  <wpt lat="59.9479170" lon="15.2561830">
+    <name>Korslångssmedjan</name>
+    <desc>https://www.openstreetmap.org/node/7125225434</desc>
+  </wpt>
+  <wpt lat="56.0349190" lon="13.1805491">
+    <name>Klåverödsstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225435</desc>
+  </wpt>
+  <wpt lat="61.7355251" lon="16.2536716">
+    <name>Järvsö Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225436</desc>
+  </wpt>
+  <wpt lat="59.0059316" lon="12.2325887">
+    <name>Höljerudsstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125225438</desc>
+  </wpt>
+  <wpt lat="59.0427359" lon="12.4436285">
+    <name>Högheden övernattningsstuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225439</desc>
+  </wpt>
+  <wpt lat="59.4355300" lon="13.3513138">
+    <name>Högemon Kolarkoja</name>
+    <desc>https://www.openstreetmap.org/node/7125225440</desc>
+  </wpt>
+  <wpt lat="60.0167038" lon="14.8397928">
+    <name>Hjortronbergsmossen Övernattningsstuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225442</desc>
+  </wpt>
+  <wpt lat="60.6476170" lon="12.5427630">
+    <name>Herreskojan Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225443</desc>
+  </wpt>
+  <wpt lat="59.8935249" lon="14.7596764">
+    <name>Havsjön Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225444</desc>
+  </wpt>
+  <wpt lat="57.4267387" lon="13.9813042">
+    <name>Hagstad Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225446</desc>
+  </wpt>
+  <wpt lat="60.3450640" lon="12.5764400">
+    <name>Gåstjernskoian</name>
+    <desc>https://www.openstreetmap.org/node/7125225447</desc>
+  </wpt>
+  <wpt lat="57.8548640" lon="14.3576395">
+    <name>node_7125225452</name>
+    <desc>https://www.openstreetmap.org/node/7125225452</desc>
+  </wpt>
+  <wpt lat="59.9163611" lon="14.8027222">
+    <name>Eskils koja</name>
+    <desc>https://www.openstreetmap.org/node/7125225453</desc>
+  </wpt>
+  <wpt lat="61.5163841" lon="15.4157077">
+    <name>Camp Gillingen Övernattningsstuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225454</desc>
+  </wpt>
+  <wpt lat="60.8336170" lon="12.4378660">
+    <name>Bjørnholtkojan</name>
+    <desc>https://www.openstreetmap.org/node/7125225455</desc>
+  </wpt>
+  <wpt lat="58.9615531" lon="11.7515524">
+    <name>Bastedalen Stuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225456</desc>
+  </wpt>
+  <wpt lat="62.3476219" lon="17.2897667">
+    <name>Asphyddan Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225457</desc>
+  </wpt>
+  <wpt lat="60.4465782" lon="12.6318861">
+    <name>Abborrtjärnsberg Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/7125225458</desc>
+  </wpt>
+  <wpt lat="60.4601950" lon="16.3502647">
+    <name>Karfeldstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125728503</desc>
+  </wpt>
+  <wpt lat="62.9409700" lon="18.0499324">
+    <name>Gälingsstugan</name>
+    <desc>https://www.openstreetmap.org/node/7125728769</desc>
+  </wpt>
+  <wpt lat="61.2829242" lon="13.6797381">
+    <name>node_7125728779</name>
+    <desc>https://www.openstreetmap.org/node/7125728779</desc>
+  </wpt>
+  <wpt lat="64.8179984" lon="15.4878312">
+    <name>Lill-Månkes stuga</name>
+    <desc>https://www.openstreetmap.org/node/7125728815</desc>
+  </wpt>
+  <wpt lat="63.0504863" lon="13.3325957">
+    <name>Hanasjöns kåta</name>
+    <desc>https://www.openstreetmap.org/node/7133973560</desc>
+  </wpt>
+  <wpt lat="63.0791188" lon="13.3542037">
+    <name>Gasngestjuvvelge</name>
+    <desc>https://www.openstreetmap.org/node/7133973561</desc>
+  </wpt>
+  <wpt lat="63.0795657" lon="13.3544075">
+    <name>Gasngestjuvvelge</name>
+    <desc>https://www.openstreetmap.org/node/7133973562</desc>
+  </wpt>
+  <wpt lat="63.0623555" lon="13.4681447">
+    <name>Hanasjöns kåta</name>
+    <desc>https://www.openstreetmap.org/node/7133973563</desc>
+  </wpt>
+  <wpt lat="63.0948216" lon="13.5292286">
+    <name>Hosjöbottnarna</name>
+    <desc>https://www.openstreetmap.org/node/7134035412</desc>
+  </wpt>
+  <wpt lat="64.4388813" lon="18.2283577">
+    <name>Sörselskojan</name>
+    <desc>https://www.openstreetmap.org/node/7139593642</desc>
+  </wpt>
+  <wpt lat="62.2803656" lon="12.3970206">
+    <name>Bredåsjön</name>
+    <desc>https://www.openstreetmap.org/node/7141533287</desc>
+  </wpt>
+  <wpt lat="62.3442463" lon="16.7537672">
+    <name>Skiftestjärnsstugan</name>
+    <desc>https://www.openstreetmap.org/node/7203803225</desc>
+  </wpt>
+  <wpt lat="60.2723430" lon="17.8288257">
+    <name>Gammelåkojan</name>
+    <desc>https://www.openstreetmap.org/node/7397621521</desc>
+  </wpt>
+  <wpt lat="60.2946258" lon="17.8695560">
+    <name>Norrbergskojan</name>
+    <desc>https://www.openstreetmap.org/node/7398810254</desc>
+  </wpt>
+  <wpt lat="60.3093273" lon="17.8220353">
+    <name>node_7398810258</name>
+    <desc>https://www.openstreetmap.org/node/7398810258</desc>
+  </wpt>
+  <wpt lat="60.2891758" lon="17.7869242">
+    <name>node_7398810262</name>
+    <desc>https://www.openstreetmap.org/node/7398810262</desc>
+  </wpt>
+  <wpt lat="59.2636391" lon="18.5518436">
+    <name>node_7405320885</name>
+    <desc>https://www.openstreetmap.org/node/7405320885</desc>
+  </wpt>
+  <wpt lat="62.3989243" lon="14.9040657">
+    <name>Stockholmskojan</name>
+    <desc>https://www.openstreetmap.org/node/7447930777</desc>
+  </wpt>
+  <wpt lat="68.3957712" lon="22.7143621">
+    <name>node_7454092087</name>
+    <desc>https://www.openstreetmap.org/node/7454092087</desc>
+  </wpt>
+  <wpt lat="61.5256168" lon="14.2787078">
+    <name>Grenskojan</name>
+    <desc>https://www.openstreetmap.org/node/7467792435</desc>
+  </wpt>
+  <wpt lat="57.7482017" lon="12.9079067">
+    <name>node_7549932272</name>
+    <desc>https://www.openstreetmap.org/node/7549932272</desc>
+  </wpt>
+  <wpt lat="60.6860719" lon="13.2488194">
+    <name>node_7629383054</name>
+    <desc>https://www.openstreetmap.org/node/7629383054</desc>
+  </wpt>
+  <wpt lat="60.4978384" lon="12.7405894">
+    <name>node_7629639476</name>
+    <desc>https://www.openstreetmap.org/node/7629639476</desc>
+  </wpt>
+  <wpt lat="60.1422983" lon="14.2720250">
+    <name>Lisjökojan</name>
+    <desc>https://www.openstreetmap.org/node/7685068238</desc>
+  </wpt>
+  <wpt lat="60.8445375" lon="14.4347502">
+    <name>Raststuga Långsjön</name>
+    <desc>https://www.openstreetmap.org/node/7862563587</desc>
+  </wpt>
+  <wpt lat="62.5681334" lon="13.9502971">
+    <name>node_7873548145</name>
+    <desc>https://www.openstreetmap.org/node/7873548145</desc>
+  </wpt>
+  <wpt lat="60.1273368" lon="14.9328524">
+    <name>Ranmossen</name>
+    <desc>https://www.openstreetmap.org/node/7997525705</desc>
+  </wpt>
+  <wpt lat="65.3060933" lon="21.4109668">
+    <name>Piteå Snöskoterklubb, Klubbstugan</name>
+    <desc>https://www.openstreetmap.org/node/8069280429</desc>
+  </wpt>
+  <wpt lat="58.6829346" lon="16.1270726">
+    <name>node_8170915701</name>
+    <desc>https://www.openstreetmap.org/node/8170915701</desc>
+  </wpt>
+  <wpt lat="66.0089616" lon="23.2211968">
+    <name>Kapplanden</name>
+    <desc>https://www.openstreetmap.org/node/8446631472</desc>
+  </wpt>
+  <wpt lat="63.8233166" lon="17.5798233">
+    <name>Brännakojan</name>
+    <desc>https://www.openstreetmap.org/node/8515236093</desc>
+  </wpt>
+  <wpt lat="62.0753593" lon="13.4233532">
+    <name>node_8533630055</name>
+    <desc>https://www.openstreetmap.org/node/8533630055</desc>
+  </wpt>
+  <wpt lat="64.4587458" lon="19.0136915">
+    <name>Slimtmorkojan Tjäderberget</name>
+    <desc>https://www.openstreetmap.org/node/8557418255</desc>
+  </wpt>
+  <wpt lat="60.8838213" lon="14.5282380">
+    <name>Windshield</name>
+    <desc>https://www.openstreetmap.org/node/8564365085</desc>
+  </wpt>
+  <wpt lat="66.0207115" lon="15.2839568">
+    <name>Glimmerstugan</name>
+    <desc>https://www.openstreetmap.org/node/8741667142</desc>
+  </wpt>
+  <wpt lat="62.0219879" lon="12.8819864">
+    <name>node_8805004381</name>
+    <desc>https://www.openstreetmap.org/node/8805004381</desc>
+  </wpt>
+  <wpt lat="60.7037078" lon="15.3011222">
+    <name>node_8866198823</name>
+    <desc>https://www.openstreetmap.org/node/8866198823</desc>
+  </wpt>
+  <wpt lat="62.0160898" lon="12.5753532">
+    <name>Fiskebäcksstugan</name>
+    <desc>https://www.openstreetmap.org/node/8904282546</desc>
+  </wpt>
+  <wpt lat="60.2751534" lon="13.4281535">
+    <name>node_9006994249</name>
+    <desc>https://www.openstreetmap.org/node/9006994249</desc>
+  </wpt>
+  <wpt lat="62.3485058" lon="12.2442656">
+    <name>Reva (round hut)</name>
+    <desc>https://www.openstreetmap.org/node/9008635750</desc>
+  </wpt>
+  <wpt lat="57.5374672" lon="12.6584590">
+    <name>node_9126708458</name>
+    <desc>https://www.openstreetmap.org/node/9126708458</desc>
+  </wpt>
+  <wpt lat="58.1889496" lon="15.5231304">
+    <name>Svensbo raststuga</name>
+    <desc>https://www.openstreetmap.org/node/9200958410</desc>
+  </wpt>
+  <wpt lat="58.0437012" lon="16.7049503">
+    <name>Kråkvik raststuga</name>
+    <desc>https://www.openstreetmap.org/node/9200985931</desc>
+  </wpt>
+  <wpt lat="58.3968887" lon="17.0055656">
+    <name>Kungens jaktstuga</name>
+    <desc>https://www.openstreetmap.org/node/9282756296</desc>
+  </wpt>
+  <wpt lat="60.1942742" lon="16.7558467">
+    <name>Göksnäset</name>
+    <desc>https://www.openstreetmap.org/node/9369905517</desc>
+  </wpt>
+  <wpt lat="60.4153496" lon="12.6993573">
+    <name>Anders Kåta</name>
+    <desc>https://www.openstreetmap.org/node/9372357829</desc>
+  </wpt>
+  <wpt lat="63.7007363" lon="20.0207412">
+    <name>node_9496668394</name>
+    <desc>https://www.openstreetmap.org/node/9496668394</desc>
+  </wpt>
+  <wpt lat="58.6979633" lon="16.2007317">
+    <name>node_9689662549</name>
+    <desc>https://www.openstreetmap.org/node/9689662549</desc>
+  </wpt>
+  <wpt lat="58.7007877" lon="16.2561857">
+    <name>node_9725129053</name>
+    <desc>https://www.openstreetmap.org/node/9725129053</desc>
+  </wpt>
+  <wpt lat="64.4484304" lon="18.3091993">
+    <name>node_9769380027</name>
+    <desc>https://www.openstreetmap.org/node/9769380027</desc>
+  </wpt>
+  <wpt lat="57.5144251" lon="16.6019197">
+    <name>node_9777815704</name>
+    <desc>https://www.openstreetmap.org/node/9777815704</desc>
+  </wpt>
+  <wpt lat="58.1701757" lon="16.2596266">
+    <name>Ekdammen raststuga</name>
+    <desc>https://www.openstreetmap.org/node/9849988116</desc>
+  </wpt>
+  <wpt lat="61.2151504" lon="16.8214055">
+    <name>node_9863633373</name>
+    <desc>https://www.openstreetmap.org/node/9863633373</desc>
+  </wpt>
+  <wpt lat="66.0348440" lon="19.2295883">
+    <name>node_9864495777</name>
+    <desc>https://www.openstreetmap.org/node/9864495777</desc>
+  </wpt>
+  <wpt lat="63.9465760" lon="19.7827561">
+    <name>node_9928934096</name>
+    <desc>https://www.openstreetmap.org/node/9928934096</desc>
+  </wpt>
+  <wpt lat="64.8818782" lon="15.1476494">
+    <name>Gaalloe</name>
+    <desc>https://www.openstreetmap.org/node/9936198221</desc>
+  </wpt>
+  <wpt lat="67.4507318" lon="21.1160969">
+    <name>Puoltikasjärvi</name>
+    <desc>https://www.openstreetmap.org/node/9951092235</desc>
+  </wpt>
+  <wpt lat="61.0322596" lon="15.2528428">
+    <name>Södra Ockran</name>
+    <desc>https://www.openstreetmap.org/node/10015674372</desc>
+  </wpt>
+  <wpt lat="67.0897035" lon="23.6599354">
+    <name>node_10021614865</name>
+    <desc>https://www.openstreetmap.org/node/10021614865</desc>
+  </wpt>
+  <wpt lat="62.6505990" lon="16.8878911">
+    <name>node_10031328249</name>
+    <desc>https://www.openstreetmap.org/node/10031328249</desc>
+  </wpt>
+  <wpt lat="65.4520989" lon="18.3588866">
+    <name>node_10032090695</name>
+    <desc>https://www.openstreetmap.org/node/10032090695</desc>
+  </wpt>
+  <wpt lat="59.6599785" lon="13.1347289">
+    <name>Bluesberry Woods</name>
+    <desc>https://www.openstreetmap.org/node/10282167523</desc>
+  </wpt>
+  <wpt lat="60.7799140" lon="16.4090582">
+    <name>node_10303994609</name>
+    <desc>https://www.openstreetmap.org/node/10303994609</desc>
+  </wpt>
+  <wpt lat="58.7848554" lon="15.9852842">
+    <name>node_10537958741</name>
+    <desc>https://www.openstreetmap.org/node/10537958741</desc>
+  </wpt>
+  <wpt lat="62.9793632" lon="13.9791531">
+    <name>Dörrsåbodarna</name>
+    <desc>https://www.openstreetmap.org/node/10579158022</desc>
+  </wpt>
+  <wpt lat="65.4719515" lon="19.7251070">
+    <name>Lappträskstugan</name>
+    <desc>https://www.openstreetmap.org/node/10594653654</desc>
+  </wpt>
+  <wpt lat="65.4895474" lon="20.0185233">
+    <name>Krampo kojan</name>
+    <desc>https://www.openstreetmap.org/node/10594710180</desc>
+  </wpt>
+  <wpt lat="66.1065759" lon="21.8738047">
+    <name>node_10674535432</name>
+    <desc>https://www.openstreetmap.org/node/10674535432</desc>
+  </wpt>
+  <wpt lat="57.5372617" lon="12.6579398">
+    <name>node_10678739702</name>
+    <desc>https://www.openstreetmap.org/node/10678739702</desc>
+  </wpt>
+  <wpt lat="59.0738814" lon="15.2451079">
+    <name>node_10722421833</name>
+    <desc>https://www.openstreetmap.org/node/10722421833</desc>
+  </wpt>
+  <wpt lat="64.8942393" lon="16.2058593">
+    <name>Lakansjökojan</name>
+    <desc>https://www.openstreetmap.org/node/10741453916</desc>
+  </wpt>
+  <wpt lat="65.9191929" lon="22.0738077">
+    <name>node_10767078075</name>
+    <desc>https://www.openstreetmap.org/node/10767078075</desc>
+  </wpt>
+  <wpt lat="65.1827251" lon="14.5664312">
+    <name>Tjåkkelestugan - barn house</name>
+    <desc>https://www.openstreetmap.org/node/10781987842</desc>
+  </wpt>
+  <wpt lat="67.7679765" lon="17.0604872">
+    <name>Rávddajávrre</name>
+    <desc>https://www.openstreetmap.org/node/10783849608</desc>
+  </wpt>
+  <wpt lat="61.3945821" lon="13.4260225">
+    <name>node_10788533139</name>
+    <desc>https://www.openstreetmap.org/node/10788533139</desc>
+  </wpt>
+  <wpt lat="61.3525202" lon="13.3920336">
+    <name>node_10788533140</name>
+    <desc>https://www.openstreetmap.org/node/10788533140</desc>
+  </wpt>
+  <wpt lat="61.1179696" lon="13.8801393">
+    <name>Sundetkojorna</name>
+    <desc>https://www.openstreetmap.org/node/10810808200</desc>
+  </wpt>
+  <wpt lat="57.0488179" lon="13.5467895">
+    <name>node_10827237589</name>
+    <desc>https://www.openstreetmap.org/node/10827237589</desc>
+  </wpt>
+  <wpt lat="62.6824554" lon="18.0453885">
+    <name>node_10870383269</name>
+    <desc>https://www.openstreetmap.org/node/10870383269</desc>
+  </wpt>
+  <wpt lat="59.2281503" lon="16.7055944">
+    <name>Rajden Scoutstuga</name>
+    <desc>https://www.openstreetmap.org/node/10887685622</desc>
+  </wpt>
+  <wpt lat="59.3252154" lon="13.9773848">
+    <name>node_10907581703</name>
+    <desc>https://www.openstreetmap.org/node/10907581703</desc>
+  </wpt>
+  <wpt lat="58.6983457" lon="14.3573891">
+    <name>Edsån</name>
+    <desc>https://www.openstreetmap.org/node/11077357226</desc>
+  </wpt>
+  <wpt lat="59.8111936" lon="13.5834722">
+    <name>Stendalsättra</name>
+    <desc>https://www.openstreetmap.org/node/11078620705</desc>
+  </wpt>
+  <wpt lat="60.4474878" lon="17.6155043">
+    <name>Västlands Kolarkoja</name>
+    <desc>https://www.openstreetmap.org/node/11159681983</desc>
+  </wpt>
+  <wpt lat="64.3487814" lon="14.3823154">
+    <name>node_11164501544</name>
+    <desc>https://www.openstreetmap.org/node/11164501544</desc>
+  </wpt>
+  <wpt lat="67.4108189" lon="22.5075447">
+    <name>node_11222201117</name>
+    <desc>https://www.openstreetmap.org/node/11222201117</desc>
+  </wpt>
+  <wpt lat="57.5496990" lon="12.5797916">
+    <name>Treetop Cabin</name>
+    <desc>https://www.openstreetmap.org/node/11415464785</desc>
+  </wpt>
+  <wpt lat="63.5588124" lon="16.1072573">
+    <name>Stuga, Stor-Bodvattnet</name>
+    <desc>https://www.openstreetmap.org/node/11635472655</desc>
+  </wpt>
+  <wpt lat="63.7698010" lon="19.1531810">
+    <name>Raststuga Bergsjöberget</name>
+    <desc>https://www.openstreetmap.org/node/11828958674</desc>
+  </wpt>
+  <wpt lat="68.1842885" lon="23.0133843">
+    <name>node_12011956436</name>
+    <desc>https://www.openstreetmap.org/node/12011956436</desc>
+  </wpt>
+  <wpt lat="58.5508747" lon="11.0890070">
+    <name>Hamnerö fiskarstugor</name>
+    <desc>https://www.openstreetmap.org/node/12068122005</desc>
+  </wpt>
+  <wpt lat="57.5559121" lon="14.2672116">
+    <name>node_12094814418</name>
+    <desc>https://www.openstreetmap.org/node/12094814418</desc>
+  </wpt>
+  <wpt lat="62.7154763" lon="17.1295472">
+    <name>node_12098243579</name>
+    <desc>https://www.openstreetmap.org/node/12098243579</desc>
+  </wpt>
+  <wpt lat="62.7157456" lon="17.1302538">
+    <name>node_12098297262</name>
+    <desc>https://www.openstreetmap.org/node/12098297262</desc>
+  </wpt>
+  <wpt lat="60.1072208" lon="12.9627742">
+    <name>Gräsbergsstugan</name>
+    <desc>https://www.openstreetmap.org/node/12118308271</desc>
+  </wpt>
+  <wpt lat="61.2673667" lon="15.8631979">
+    <name>Svartån</name>
+    <desc>https://www.openstreetmap.org/node/12148303857</desc>
+  </wpt>
+  <wpt lat="60.8525810" lon="16.1990395">
+    <name>Luskojan 2</name>
+    <desc>https://www.openstreetmap.org/node/12156041322</desc>
+  </wpt>
+  <wpt lat="58.4258130" lon="11.8586388">
+    <name>node_12160107656</name>
+    <desc>https://www.openstreetmap.org/node/12160107656</desc>
+  </wpt>
+  <wpt lat="58.8378146" lon="15.3202178">
+    <name>node_12162240228</name>
+    <desc>https://www.openstreetmap.org/node/12162240228</desc>
+  </wpt>
+  <wpt lat="65.5658223" lon="19.0535948">
+    <name>Skoterstugan</name>
+    <desc>https://www.openstreetmap.org/node/12169236419</desc>
+  </wpt>
+  <wpt lat="62.2543503" lon="12.5156852">
+    <name>node_12188127950</name>
+    <desc>https://www.openstreetmap.org/node/12188127950</desc>
+  </wpt>
+  <wpt lat="64.2012246" lon="20.5635205">
+    <name>node_12271819609</name>
+    <desc>https://www.openstreetmap.org/node/12271819609</desc>
+  </wpt>
+  <wpt lat="62.7039547" lon="12.3896378">
+    <name>Värmestuga</name>
+    <desc>https://www.openstreetmap.org/node/12312248942</desc>
+  </wpt>
+  <wpt lat="65.5174559" lon="19.4428299">
+    <name>node_12601209138</name>
+    <desc>https://www.openstreetmap.org/node/12601209138</desc>
+  </wpt>
+  <wpt lat="65.6993988" lon="22.2387449">
+    <name>node_12644102477</name>
+    <desc>https://www.openstreetmap.org/node/12644102477</desc>
+  </wpt>
+  <wpt lat="64.8492148" lon="15.1094654">
+    <name>node_12660070762</name>
+    <desc>https://www.openstreetmap.org/node/12660070762</desc>
+  </wpt>
+  <wpt lat="64.8479512" lon="15.1086299">
+    <name>node_12660070763</name>
+    <desc>https://www.openstreetmap.org/node/12660070763</desc>
+  </wpt>
+  <wpt lat="64.8478132" lon="15.1084220">
+    <name>node_12660070764</name>
+    <desc>https://www.openstreetmap.org/node/12660070764</desc>
+  </wpt>
+  <wpt lat="59.7458900" lon="13.6732806">
+    <name>node_12668072053</name>
+    <desc>https://www.openstreetmap.org/node/12668072053</desc>
+  </wpt>
+  <wpt lat="60.8613824" lon="12.8833659">
+    <name>node_12668992128</name>
+    <desc>https://www.openstreetmap.org/node/12668992128</desc>
+  </wpt>
+  <wpt lat="66.0780626" lon="22.7733981">
+    <name>node_12669671295</name>
+    <desc>https://www.openstreetmap.org/node/12669671295</desc>
+  </wpt>
+  <wpt lat="64.0797109" lon="17.6775361">
+    <name>Baraskojan</name>
+    <desc>https://www.openstreetmap.org/node/12756745353</desc>
+  </wpt>
+  <wpt lat="64.1394922" lon="18.2059381">
+    <name>Örnflärkkojan</name>
+    <desc>https://www.openstreetmap.org/node/12757250173</desc>
+  </wpt>
+  <wpt lat="64.2829602" lon="17.7736070">
+    <name>Rökojan</name>
+    <desc>https://www.openstreetmap.org/node/12759763124</desc>
+  </wpt>
+  <wpt lat="68.5138739" lon="18.6316452">
+    <name>Lappjordhytta</name>
+    <desc>https://www.openstreetmap.org/node/12801189405</desc>
+  </wpt>
+  <wpt lat="61.4960921" lon="15.3283154">
+    <name>node_12811256510</name>
+    <desc>https://www.openstreetmap.org/node/12811256510</desc>
+  </wpt>
+  <wpt lat="66.9413114" lon="23.8355465">
+    <name>Наблюдательный пункт с печкой</name>
+    <desc>https://www.openstreetmap.org/node/12875691201</desc>
+  </wpt>
+  <wpt lat="60.1386168" lon="12.5561376">
+    <name>Lomstorp Raststuga</name>
+    <desc>https://www.openstreetmap.org/node/12947259542</desc>
+  </wpt>
+  <wpt lat="63.5971818" lon="16.2626937">
+    <name>node_12947349273</name>
+    <desc>https://www.openstreetmap.org/node/12947349273</desc>
+  </wpt>
+  <wpt lat="58.8763379" lon="14.3689219">
+    <name>node_13006093801</name>
+    <desc>https://www.openstreetmap.org/node/13006093801</desc>
+  </wpt>
+  <wpt lat="57.5288661" lon="14.2916004">
+    <name>node_13028550771</name>
+    <desc>https://www.openstreetmap.org/node/13028550771</desc>
+  </wpt>
+  <wpt lat="61.6789667" lon="12.6704350">
+    <name>Slogboden</name>
+    <desc>https://www.openstreetmap.org/node/13042994975</desc>
+  </wpt>
+  <wpt lat="63.0350305" lon="14.8233762">
+    <name>Långbåten</name>
+    <desc>https://www.openstreetmap.org/node/13062906776</desc>
+  </wpt>
+  <wpt lat="66.5900816" lon="22.6654498">
+    <name>Laxforsbergskojan</name>
+    <desc>https://www.openstreetmap.org/node/13094335701</desc>
+  </wpt>
+  <wpt lat="60.1915602" lon="16.8779610">
+    <name>node_13094650837</name>
+    <desc>https://www.openstreetmap.org/node/13094650837</desc>
+  </wpt>
+  <wpt lat="59.3893569" lon="18.9437605">
+    <name>Kullansudarna</name>
+    <desc>https://www.openstreetmap.org/node/13149160171</desc>
+  </wpt>
+  <wpt lat="63.1637477" lon="13.5629142">
+    <name>Kialastugan</name>
+    <desc>https://www.openstreetmap.org/node/13157995013</desc>
+  </wpt>
+  <wpt lat="63.9960616" lon="14.6669295">
+    <name>Almdalens Fjällgård</name>
+    <desc>https://www.openstreetmap.org/node/13174265142</desc>
+  </wpt>
+  <wpt lat="63.3164312" lon="13.3526166">
+    <name>Hållandsgårdens Pilgrimsstuga</name>
+    <desc>https://www.openstreetmap.org/node/13267585089</desc>
+  </wpt>
+  <wpt lat="64.6576139" lon="17.5598815">
+    <name>Kullenkojan</name>
+    <desc>https://www.openstreetmap.org/node/13330066544</desc>
+  </wpt>
+  <wpt lat="63.0248382" lon="18.2261801">
+    <name>node_13389012070</name>
+    <desc>https://www.openstreetmap.org/node/13389012070</desc>
+  </wpt>
+  <wpt lat="62.4573838" lon="13.1196463">
+    <name>node_13406399084</name>
+    <desc>https://www.openstreetmap.org/node/13406399084</desc>
+  </wpt>
+  <wpt lat="63.1081945" lon="16.3086811">
+    <name>node_13408844279</name>
+    <desc>https://www.openstreetmap.org/node/13408844279</desc>
+  </wpt>
+  <wpt lat="61.5256845" lon="15.5532487">
+    <name>node_13414500525</name>
+    <desc>https://www.openstreetmap.org/node/13414500525</desc>
+  </wpt>
+  <wpt lat="61.5257203" lon="15.5526917">
+    <name>node_13414500535</name>
+    <desc>https://www.openstreetmap.org/node/13414500535</desc>
+  </wpt>
+  <wpt lat="61.6673245" lon="15.3769865">
+    <name>node_13414586383</name>
+    <desc>https://www.openstreetmap.org/node/13414586383</desc>
+  </wpt>
+  <wpt lat="61.5747724" lon="15.5493021">
+    <name>Öjungskojan</name>
+    <desc>https://www.openstreetmap.org/node/13414622204</desc>
+  </wpt>
+  <wpt lat="61.7666336" lon="15.2252481">
+    <name>node_13415531861</name>
+    <desc>https://www.openstreetmap.org/node/13415531861</desc>
+  </wpt>
+  <wpt lat="61.1130410" lon="13.1368858">
+    <name>Slogbod Mossakaren</name>
+    <desc>https://www.openstreetmap.org/node/13711423099</desc>
+  </wpt>
+  <wpt lat="61.1207445" lon="13.1269669">
+    <name>Slogbod Mossakaren</name>
+    <desc>https://www.openstreetmap.org/node/13711423100</desc>
+  </wpt>
+  <wpt lat="61.0493125" lon="13.2653904">
+    <name>Slogbod Näsvalltäckten</name>
+    <desc>https://www.openstreetmap.org/node/13711437245</desc>
+  </wpt>
+  <wpt lat="65.2382172" lon="18.6032995">
+    <name>node_13938634780</name>
+    <desc>https://www.openstreetmap.org/node/13938634780</desc>
+  </wpt>
+  <wpt lat="59.3750691" lon="14.9568125">
+    <name>node_13944495101</name>
+    <desc>https://www.openstreetmap.org/node/13944495101</desc>
+  </wpt>
+  <wpt lat="59.3720816" lon="14.9360084">
+    <name>node_13944495103</name>
+    <desc>https://www.openstreetmap.org/node/13944495103</desc>
+  </wpt>
+  <wpt lat="60.8300726" lon="14.8750744">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.7831254" lon="17.5568212">
+    <name>Skogshyddan</name>
+  </wpt>
+  <wpt lat="60.6373371" lon="15.6941660">
+    <name>Lärkstugan</name>
+  </wpt>
+  <wpt lat="62.9732399" lon="18.4437392">
+    <name>Bredviksstugan</name>
+  </wpt>
+  <wpt lat="59.7774659" lon="17.5549695">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.9232330" lon="15.9540702">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.1915433" lon="16.8779956">
+    <name>Österbo Fäbodar</name>
+  </wpt>
+  <wpt lat="59.7712585" lon="17.7220226">
+    <name>Lunsentorpet</name>
+  </wpt>
+  <wpt lat="60.3908490" lon="15.1052834">
+    <name>Bergslagsstugan</name>
+  </wpt>
+  <wpt lat="59.9092614" lon="18.0095704">
+    <name>Skärsjöstugan</name>
+  </wpt>
+  <wpt lat="64.2693054" lon="20.1869389">
+    <name>Kvarnbäckskojan</name>
+  </wpt>
+  <wpt lat="66.0051578" lon="15.2263215">
+    <name>Jirestugan</name>
+  </wpt>
+  <wpt lat="61.0166305" lon="14.4116000">
+    <name>Eldris</name>
+  </wpt>
+  <wpt lat="61.1209684" lon="13.4241501">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.0785513" lon="13.6832055">
+    <name>Tennängskojan</name>
+  </wpt>
+  <wpt lat="60.1962830" lon="16.8722840">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.2832327" lon="13.5124261">
+    <name>Sododalsstugan</name>
+  </wpt>
+  <wpt lat="58.1919078" lon="15.6493963">
+    <name>Jaktstugeudden raststuga</name>
+  </wpt>
+  <wpt lat="58.7090450" lon="12.2083041">
+    <name>Karolinerstugan</name>
+  </wpt>
+  <wpt lat="58.4082133" lon="11.8851749">
+    <name>Hällerstugan</name>
+  </wpt>
+  <wpt lat="66.0954251" lon="16.1190147">
+    <name>Rävfallsstugan</name>
+  </wpt>
+  <wpt lat="59.0739107" lon="15.2451580">
+    <name>Lundblomstorpet</name>
+  </wpt>
+  <wpt lat="58.4106302" lon="11.8248991">
+    <name>Kärrestugan</name>
+  </wpt>
+  <wpt lat="69.0603132" lon="20.5570133">
+    <name>Kuohkimajärven autiotupa</name>
+  </wpt>
+  <wpt lat="69.0607746" lon="20.5574281">
+    <name>Kuohkimajärvi varaustupa</name>
+  </wpt>
+  <wpt lat="63.0748066" lon="18.3495649">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.7092687" lon="12.2081084">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="63.1306171" lon="13.7643648">
+    <name>Stenhyddan</name>
+  </wpt>
+  <wpt lat="61.1517974" lon="12.9453823">
+    <name>Skogsäterstugan</name>
+  </wpt>
+  <wpt lat="61.2232450" lon="13.1059181">
+    <name>Källfjällsstugan</name>
+  </wpt>
+  <wpt lat="59.0051765" lon="12.7152194">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.4258218" lon="11.8585796">
+    <name>Krokestugan</name>
+  </wpt>
+  <wpt lat="58.4244345" lon="11.8607448">
+    <name>Kåtan</name>
+  </wpt>
+  <wpt lat="66.4722650" lon="15.4011871">
+    <name>Raststuga Nasafjäll</name>
+  </wpt>
+  <wpt lat="58.4853051" lon="11.3920223">
+    <name>Stora Bollemyrstugan</name>
+  </wpt>
+  <wpt lat="58.4823940" lon="11.4444728">
+    <name>Koderöd</name>
+  </wpt>
+  <wpt lat="66.5899223" lon="16.3851978">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.4536118" lon="16.2313020">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.4841376" lon="16.2508741">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.0124211" lon="19.9886300">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.4733742" lon="11.3364588">
+    <name>Marsellekojan</name>
+  </wpt>
+  <wpt lat="62.3009618" lon="13.3369972">
+    <name>Skärsjön raststuga</name>
+  </wpt>
+  <wpt lat="61.1337290" lon="13.0600908">
+    <name>Kvillkojan</name>
+  </wpt>
+  <wpt lat="58.5130035" lon="12.9312276">
+    <name>Kraken</name>
+  </wpt>
+  <wpt lat="66.1477893" lon="16.0161948">
+    <name>Vitnjul östra</name>
+  </wpt>
+  <wpt lat="62.3477682" lon="17.1713519">
+    <name>Svanängsstugan</name>
+  </wpt>
+  <wpt lat="56.2148625" lon="13.6256946">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.3140328" lon="15.9499301">
+    <name>Torsten</name>
+  </wpt>
+  <wpt lat="63.0234166" lon="18.2180537">
+    <name>Äskjastugan</name>
+  </wpt>
+  <wpt lat="67.9713658" lon="18.6625014">
+    <name>Kaskavagge shelter</name>
+  </wpt>
+  <wpt lat="61.5519094" lon="12.7403051">
+    <name>Lilla Tangsjöstugan</name>
+  </wpt>
+  <wpt lat="62.7321321" lon="18.0883071">
+    <name>Toppstugan</name>
+  </wpt>
+  <wpt lat="66.0814555" lon="21.1401074">
+    <name>Brandtornskojan</name>
+  </wpt>
+  <wpt lat="66.1501991" lon="16.0078468">
+    <name>Vitnjul västra</name>
+  </wpt>
+  <wpt lat="68.2179677" lon="21.9247033">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.4719323" lon="19.7251213">
+    <name>Lappträskstugan</name>
+  </wpt>
+  <wpt lat="65.4894960" lon="20.0185767">
+    <name>Krampo kojan</name>
+  </wpt>
+  <wpt lat="61.4839870" lon="12.8465508">
+    <name>Tangådalsstugan</name>
+  </wpt>
+  <wpt lat="61.4084590" lon="12.8406565">
+    <name>Björnholmsstugan</name>
+  </wpt>
+  <wpt lat="66.1884192" lon="15.6502522">
+    <name>Dalavardostugan</name>
+  </wpt>
+  <wpt lat="66.1775414" lon="15.8484226">
+    <name>Mankeforsen</name>
+  </wpt>
+  <wpt lat="65.5166905" lon="14.5528024">
+    <name>Arevattnet</name>
+  </wpt>
+  <wpt lat="65.4480156" lon="15.8284705">
+    <name>Lappstugan</name>
+  </wpt>
+  <wpt lat="65.6834001" lon="21.0540479">
+    <name>Raststuga</name>
+  </wpt>
+  <wpt lat="60.3082049" lon="17.8641258">
+    <name>Övernattningsstuga Risön</name>
+  </wpt>
+  <wpt lat="62.3473094" lon="13.3054552">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.1075565" lon="17.1657844">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.8096784" lon="13.8619910">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.7480470" lon="16.2712779">
+    <name>Rövallskojan</name>
+  </wpt>
+  <wpt lat="61.7434690" lon="12.2265297">
+    <name>Kolbäckskojan</name>
+  </wpt>
+  <wpt lat="61.7542320" lon="12.2405304">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.6889635" lon="12.3564937">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.5824448" lon="15.3457356">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.5992562" lon="15.2613116">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.4521146" lon="18.3589289">
+    <name>Laggträsket Storstuga</name>
+  </wpt>
+  <wpt lat="63.9689912" lon="18.8076496">
+    <name>Tjuvnäverholmkojan</name>
+  </wpt>
+  <wpt lat="62.4573821" lon="13.1197067">
+    <name>Nedre Rändfallet</name>
+  </wpt>
+  <wpt lat="63.0025961" lon="13.2026745">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="63.4308759" lon="12.8971378">
+    <name>Forsa fabodar</name>
+  </wpt>
+  <wpt lat="62.8759976" lon="18.0279054">
+    <name>Holsklippen</name>
+  </wpt>
+  <wpt lat="59.0491422" lon="12.5553762">
+    <name>Handskesjö Raststuga</name>
+  </wpt>
+  <wpt lat="62.0220054" lon="12.8820296">
+    <name>Harundsjön</name>
+  </wpt>
+  <wpt lat="57.0793882" lon="15.9198832">
+    <name>Mossberga stuga</name>
+  </wpt>
+  <wpt lat="60.3093543" lon="17.8569662">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="68.4325048" lon="18.6708174">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="63.1134139" lon="18.4611895">
+    <name>Skrattabborrtjärn</name>
+  </wpt>
+  <wpt lat="63.1119913" lon="18.5089372">
+    <name>Tärnättstugan</name>
+  </wpt>
+  <wpt lat="62.3002076" lon="17.3577190">
+    <name>Bergfotsstugan</name>
+  </wpt>
+  <wpt lat="61.1101700" lon="13.1892880">
+    <name>Mellanfjällsstugan</name>
+  </wpt>
+  <wpt lat="61.2346605" lon="12.9527390">
+    <name>Närfjällsstugan</name>
+  </wpt>
+  <wpt lat="63.1102177" lon="18.5374753">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.0073685" lon="16.8086542">
+    <name>Lotsstugan</name>
+  </wpt>
+  <wpt lat="60.8413910" lon="13.1598450">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.7932605" lon="18.1015691">
+    <name>Valkallen Topstugan</name>
+  </wpt>
+  <wpt lat="56.4837952" lon="15.8585440">
+    <name>Blommastugan</name>
+  </wpt>
+  <wpt lat="64.3958854" lon="18.5437173">
+    <name>Raningstjärn</name>
+  </wpt>
+  <wpt lat="62.6350002" lon="16.8689696">
+    <name>Svarttjärnsstugan</name>
+  </wpt>
+  <wpt lat="60.1532537" lon="17.8103500">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.8478138" lon="12.3543497">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.6506129" lon="16.8879401">
+    <name>Nilsböle</name>
+  </wpt>
+  <wpt lat="66.1043543" lon="17.4794902">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.8332947" lon="15.7436153">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="67.4131361" lon="21.2388089">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.1184666" lon="14.7211175">
+    <name>Durrenstugan</name>
+  </wpt>
+  <wpt lat="65.0281913" lon="15.3694331">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.5552926" lon="13.9878529">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="56.9761719" lon="16.2667108">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.3995112" lon="11.8496625">
+    <name>Kölnestugan</name>
+  </wpt>
+  <wpt lat="60.4366785" lon="12.6506105">
+    <name>Oledobba</name>
+  </wpt>
+  <wpt lat="61.9733679" lon="16.1897437">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="57.4169555" lon="16.6405040">
+    <name>Lilla Laxemar</name>
+  </wpt>
+  <wpt lat="57.5143948" lon="16.6018661">
+    <name>Stjärneberg</name>
+  </wpt>
+  <wpt lat="66.9499369" lon="17.8060660">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.6708887" lon="16.6468116">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.3526689" lon="14.6581398">
+    <name>Trollebostugan</name>
+  </wpt>
+  <wpt lat="64.8267055" lon="17.8608672">
+    <name>Flottarkojan</name>
+  </wpt>
+  <wpt lat="64.8270881" lon="17.8350262">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="67.4299503" lon="22.5059785">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="56.1132631" lon="13.6990308">
+    <name>Ronja</name>
+  </wpt>
+  <wpt lat="56.1131834" lon="13.6994246">
+    <name>Birka</name>
+  </wpt>
+  <wpt lat="56.1131514" lon="13.6992043">
+    <name>Birk</name>
+  </wpt>
+  <wpt lat="59.2380605" lon="15.2711221">
+    <name>Ässkogstorp</name>
+  </wpt>
+  <wpt lat="65.6796682" lon="17.6529225">
+    <name>Granselekojan</name>
+  </wpt>
+  <wpt lat="65.2829120" lon="15.8681771">
+    <name>Klitvallsstugan</name>
+  </wpt>
+  <wpt lat="64.9310508" lon="16.1212870">
+    <name>Dainanässtugan</name>
+  </wpt>
+  <wpt lat="66.0694780" lon="21.1925549">
+    <name>Dragträsketskojan</name>
+  </wpt>
+  <wpt lat="61.9781373" lon="16.2299403">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.0736854" lon="16.3427284">
+    <name>Väggluskojan</name>
+  </wpt>
+  <wpt lat="60.8446217" lon="15.4142251">
+    <name>Flymyrsstugan</name>
+  </wpt>
+  <wpt lat="65.9971554" lon="22.8417996">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="63.1082024" lon="16.3086610">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8158537" lon="18.1551758">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8160528" lon="18.1552078">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8161212" lon="18.1553935">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8161941" lon="18.1556274">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8155669" lon="18.1551269">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.2717613" lon="17.8039732">
+    <name>Agnsjöstugan</name>
+  </wpt>
+  <wpt lat="56.4926174" lon="14.8527071">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.4371101" lon="14.2839879">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.5081497" lon="15.1068963">
+    <name>Björkastugan</name>
+  </wpt>
+  <wpt lat="63.6859012" lon="20.8565722">
+    <name>Rössgrund fiskebastu</name>
+  </wpt>
+  <wpt lat="63.7160037" lon="20.8675570">
+    <name>Sikskärs fiskebastu</name>
+  </wpt>
+  <wpt lat="63.7626813" lon="20.8291823">
+    <name>Gåsflötans fiskebastu</name>
+  </wpt>
+  <wpt lat="61.9438717" lon="12.8223854">
+    <name>Nipstugan</name>
+  </wpt>
+  <wpt lat="62.3043114" lon="17.2217268">
+    <name>Grenforsen Stuga</name>
+  </wpt>
+  <wpt lat="56.2150497" lon="13.6264557">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.7817292" lon="17.7412532">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.6673546" lon="15.3770907">
+    <name>Petterssonskojan</name>
+  </wpt>
+  <wpt lat="60.3658369" lon="15.1691405">
+    <name>Spånsanstugan</name>
+  </wpt>
+  <wpt lat="60.4030980" lon="15.1835490">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.6540235" lon="16.6709252">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.9274431" lon="14.6263296">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.7289795" lon="12.7585285">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="60.2869716" lon="12.9433289">
+    <name>Bondfugestorp</name>
+  </wpt>
+  <wpt lat="64.0379350" lon="16.8836201">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.0468455" lon="16.9167515">
+    <name>Höjdakojan</name>
+  </wpt>
+  <wpt lat="60.4117018" lon="12.6099306">
+    <name>Fjälltorp</name>
+  </wpt>
+  <wpt lat="61.6259296" lon="14.5385021">
+    <name>Trubbingdammen</name>
+  </wpt>
+  <wpt lat="67.5649813" lon="22.1548107">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="58.8378417" lon="15.3202639">
+    <name>Bergön raststuga</name>
+  </wpt>
+  <wpt lat="59.6622793" lon="18.6303102">
+    <name>Grevinnans rå</name>
+  </wpt>
+  <wpt lat="61.6062832" lon="12.7695342">
+    <name>Brottbäckstuga</name>
+  </wpt>
+  <wpt lat="57.7445619" lon="13.0598664">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="62.8154241" lon="18.1551447">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.3925978" lon="18.5766749">
+    <name>Sörmyra koja</name>
+  </wpt>
+  <wpt lat="66.0840186" lon="15.5405865">
+    <name>Skidbäcksstugan</name>
+  </wpt>
+  <wpt lat="61.5410598" lon="16.2665199">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.4012647" lon="18.2495137">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.7446516" lon="14.5970672">
+    <name>Stormyrstugan</name>
+  </wpt>
+  <wpt lat="61.7446635" lon="14.5975368">
+    <name>Lillskogsdammskojan</name>
+  </wpt>
+  <wpt lat="55.9306534" lon="13.6108540">
+    <name>Fädriftskojan</name>
+  </wpt>
+  <wpt lat="63.2848567" lon="13.0451321">
+    <name>Grofjällstugan</name>
+  </wpt>
+  <wpt lat="63.2978261" lon="13.0363603">
+    <name>Sönnestvallen</name>
+  </wpt>
+  <wpt lat="64.9555986" lon="15.7397110">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9742707" lon="15.7499585">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9357387" lon="15.5247655">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9510618" lon="15.6158153">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9309650" lon="15.5567185">
+    <name>Baksjöstugan</name>
+  </wpt>
+  <wpt lat="64.9498808" lon="15.5764908">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9821058" lon="15.5297655">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9564021" lon="15.6502858">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="64.9968900" lon="15.4840058">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.0122701" lon="15.6752713">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="65.0328709" lon="15.7306419">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.5256974" lon="15.5532284">
+    <name>Räkaklitt</name>
+  </wpt>
+  <wpt lat="61.5257059" lon="15.5526647">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="61.7666158" lon="15.2252195">
+    <name>Norbyvallen stuga</name>
+  </wpt>
+  <wpt lat="62.8162747" lon="18.1557424">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="59.1907849" lon="18.2038502">
+    <name>Wilderness Hut</name>
+  </wpt>
+  <wpt lat="57.6669484" lon="11.6524346">
+    <name>Fotö Grillkåta</name>
+  </wpt>
+  <wpt lat="65.3383506" lon="18.5611064">
+    <name>Adaklidstugan</name>
+  </wpt>
+</gpx>
